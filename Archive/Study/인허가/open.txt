@@ -1,0 +1,3385 @@
+가축분뇨 수집운반업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.88               23.0
+Prediction (s.d.)         2.68 (0.71)        21.42 (5.7)
+95% CI                    [1.22, 4.02]       [9.78, 32.12]
+
+Absolute effect (s.d.)    0.2 (0.71)         1.58 (5.7)
+95% CI                    [-1.14, 1.65]      [-9.12, 13.22]
+
+Relative effect (s.d.)    7.38% (26.61%)     7.38% (26.61%)
+95% CI                    [-42.6%, 61.7%]    [-42.6%, 61.7%]
+
+Posterior tail-area probability p: 0.36
+Posterior prob. of a causal effect: 63.54%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+가축분뇨배출시설관리업(사업장)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.12               17.0
+Prediction (s.d.)         1.46 (0.42)        11.65 (3.33)
+95% CI                    [0.64, 2.27]       [5.12, 18.18]
+
+Absolute effect (s.d.)    0.67 (0.42)        5.35 (3.33)
+95% CI                    [-0.15, 1.49]      [-1.18, 11.88]
+
+Relative effect (s.d.)    45.87% (28.58%)    45.87% (28.58%)
+95% CI                    [-10.1%, 101.94%]  [-10.1%, 101.94%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 94.01%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+가축사육업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    292.75             2342.0
+Prediction (s.d.)         381.28 (39.39)     3050.27 (315.11)
+95% CI                    [300.35, 454.75]   [2402.77, 3637.98]
+
+Absolute effect (s.d.)    -88.53 (39.39)     -708.27 (315.11)
+95% CI                    [-162.0, -7.6]     [-1295.98, -60.77]
+
+Relative effect (s.d.)    -23.22% (10.33%)   -23.22% (10.33%)
+95% CI                    [-42.49%, -1.99%]  [-42.49%, -1.99%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 98.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+가축인공수정소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    12.75              102.0
+Prediction (s.d.)         13.37 (2.95)       106.97 (23.6)
+95% CI                    [7.51, 19.07]      [60.07, 152.59]
+
+Absolute effect (s.d.)    -0.62 (2.95)       -4.97 (23.6)
+95% CI                    [-6.32, 5.24]      [-50.59, 41.93]
+
+Relative effect (s.d.)    -4.64% (22.07%)    -4.64% (22.07%)
+95% CI                    [-47.3%, 39.2%]    [-47.3%, 39.2%]
+
+Posterior tail-area probability p: 0.43
+Posterior prob. of a causal effect: 57.14%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+개인하수처리시설관리업(사업장)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.5                12.0
+Prediction (s.d.)         1.57 (0.52)        12.52 (4.13)
+95% CI                    [0.57, 2.59]       [4.54, 20.71]
+
+Absolute effect (s.d.)    -0.07 (0.52)       -0.52 (4.13)
+95% CI                    [-1.09, 0.93]      [-8.71, 7.46]
+
+Relative effect (s.d.)    -4.19% (32.94%)    -4.19% (32.94%)
+95% CI                    [-69.51%, 59.6%]   [-69.51%, 59.6%]
+
+Posterior tail-area probability p: 0.45
+Posterior prob. of a causal effect: 54.85%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+건강기능식품유통전문판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    78.5               628.0
+Prediction (s.d.)         70.82 (6.75)       566.57 (54.03)
+95% CI                    [57.55, 84.02]     [460.39, 672.17]
+
+Absolute effect (s.d.)    7.68 (6.75)        61.43 (54.03)
+95% CI                    [-5.52, 20.95]     [-44.17, 167.61]
+
+Relative effect (s.d.)    10.84% (9.54%)     10.84% (9.54%)
+95% CI                    [-7.8%, 29.58%]    [-7.8%, 29.58%]
+
+Posterior tail-area probability p: 0.14
+Posterior prob. of a causal effect: 86.41%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+건강기능식품일반판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    3301.88            26415.0
+Prediction (s.d.)         1560.08 (269.9)    12480.65 (2159.18)
+95% CI                    [1055.85, 2113.83] [8446.76, 16910.6]
+
+Absolute effect (s.d.)    1741.79 (269.9)    13934.35 (2159.18)
+95% CI                    [1188.05, 2246.03] [9504.4, 17968.24]
+
+Relative effect (s.d.)    111.65% (17.3%)    111.65% (17.3%)
+95% CI                    [76.15%, 143.97%]  [76.15%, 143.97%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+건물위생관리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    117.75             942.0
+Prediction (s.d.)         111.24 (12.17)     889.92 (97.34)
+95% CI                    [87.97, 135.67]    [703.79, 1085.38]
+
+Absolute effect (s.d.)    6.51 (12.17)       52.08 (97.34)
+95% CI                    [-17.92, 29.78]    [-143.38, 238.21]
+
+Relative effect (s.d.)    5.85% (10.94%)     5.85% (10.94%)
+95% CI                    [-16.11%, 26.77%]  [-16.11%, 26.77%]
+
+Posterior tail-area probability p: 0.29
+Posterior prob. of a causal effect: 70.83%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+건설폐기물처리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    54.0               432.0
+Prediction (s.d.)         28.87 (3.72)       230.97 (29.74)
+95% CI                    [21.16, 35.73]     [169.27, 285.85]
+
+Absolute effect (s.d.)    25.13 (3.72)       201.03 (29.74)
+95% CI                    [18.27, 32.84]     [146.15, 262.73]
+
+Relative effect (s.d.)    87.04% (12.88%)    87.04% (12.88%)
+95% CI                    [63.28%, 113.75%]  [63.28%, 113.75%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+게임물배급업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    12.38              99.0
+Prediction (s.d.)         15.54 (2.69)       124.34 (21.49)
+95% CI                    [10.09, 20.63]     [80.75, 165.0]
+
+Absolute effect (s.d.)    -3.17 (2.69)       -25.34 (21.49)
+95% CI                    [-8.25, 2.28]      [-66.0, 18.25]
+
+Relative effect (s.d.)    -20.38% (17.29%)   -20.38% (17.29%)
+95% CI                    [-53.08%, 14.68%]  [-53.08%, 14.68%]
+
+Posterior tail-area probability p: 0.12
+Posterior prob. of a causal effect: 87.71%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+게임물제작업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    26.75              214.0
+Prediction (s.d.)         32.49 (4.44)       259.9 (35.5)
+95% CI                    [24.06, 41.45]     [192.45, 331.6]
+
+Absolute effect (s.d.)    -5.74 (4.44)       -45.9 (35.5)
+95% CI                    [-14.7, 2.69]      [-117.6, 21.55]
+
+Relative effect (s.d.)    -17.66% (13.66%)   -17.66% (13.66%)
+95% CI                    [-45.25%, 8.29%]   [-45.25%, 8.29%]
+
+Posterior tail-area probability p: 0.08
+Posterior prob. of a causal effect: 92.11%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+계량기수리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    3.5                28.0
+Prediction (s.d.)         2.57 (0.54)        20.56 (4.32)
+95% CI                    [1.58, 3.7]        [12.66, 29.6]
+
+Absolute effect (s.d.)    0.93 (0.54)        7.44 (4.32)
+95% CI                    [-0.2, 1.92]       [-1.6, 15.34]
+
+Relative effect (s.d.)    36.19% (21.02%)    36.19% (21.02%)
+95% CI                    [-7.77%, 74.63%]   [-7.77%, 74.63%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 94.31%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+계량기수입업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.0                8.0
+Prediction (s.d.)         1.36 (0.54)        10.86 (4.32)
+95% CI                    [0.31, 2.43]       [2.5, 19.43]
+
+Absolute effect (s.d.)    -0.36 (0.54)       -2.86 (4.32)
+95% CI                    [-1.43, 0.69]      [-11.43, 5.5]
+
+Relative effect (s.d.)    -26.35% (39.76%)   -26.35% (39.76%)
+95% CI                    [-105.2%, 50.67%]  [-105.2%, 50.67%]
+
+Posterior tail-area probability p: 0.26
+Posterior prob. of a causal effect: 74.13%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+계량기제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.12               49.0
+Prediction (s.d.)         4.08 (0.93)        32.67 (7.44)
+95% CI                    [2.18, 5.82]       [17.41, 46.56]
+
+Absolute effect (s.d.)    2.04 (0.93)        16.33 (7.44)
+95% CI                    [0.3, 3.95]        [2.44, 31.59]
+
+Relative effect (s.d.)    49.99% (22.76%)    49.99% (22.76%)
+95% CI                    [7.47%, 96.69%]    [7.47%, 96.69%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 99.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+계량기증명업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.75               54.0
+Prediction (s.d.)         6.1 (1.3)          48.82 (10.43)
+95% CI                    [3.57, 8.68]       [28.57, 69.44]
+
+Absolute effect (s.d.)    0.65 (1.3)         5.18 (10.43)
+95% CI                    [-1.93, 3.18]      [-15.44, 25.43]
+
+Relative effect (s.d.)    10.62% (21.36%)    10.62% (21.36%)
+95% CI                    [-31.62%, 52.1%]   [-31.62%, 52.1%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 67.63%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+고압가스업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    99.0               792.0
+Prediction (s.d.)         83.47 (8.04)       667.73 (64.34)
+95% CI                    [66.76, 98.29]     [534.08, 786.29]
+
+Absolute effect (s.d.)    15.53 (8.04)       124.27 (64.34)
+95% CI                    [0.71, 32.24]      [5.71, 257.92]
+
+Relative effect (s.d.)    18.61% (9.64%)     18.61% (9.64%)
+95% CI                    [0.86%, 38.63%]    [0.86%, 38.63%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+골프연습장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    26.0               208.0
+Prediction (s.d.)         18.16 (2.31)       145.26 (18.48)
+95% CI                    [13.79, 22.85]     [110.34, 182.78]
+
+Absolute effect (s.d.)    7.84 (2.31)        62.74 (18.48)
+95% CI                    [3.15, 12.21]      [25.22, 97.66]
+
+Relative effect (s.d.)    43.19% (12.72%)    43.19% (12.72%)
+95% CI                    [17.36%, 67.23%]   [17.36%, 67.23%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+골프장
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.21 (0.2)         1.7 (1.62)
+95% CI                    [-0.19, 0.6]       [-1.52, 4.83]
+
+Absolute effect (s.d.)    -0.09 (0.2)        -0.7 (1.62)
+95% CI                    [-0.48, 0.32]      [-3.83, 2.52]
+
+Relative effect (s.d.)    -41.11% (95.38%)   -41.11% (95.38%)
+95% CI                    [-225.44%, 148.45%][-225.44%, 148.45%]
+
+Posterior tail-area probability p: 0.33
+Posterior prob. of a causal effect: 67.23%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+공연장
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.12               49.0
+Prediction (s.d.)         7.09 (1.82)        56.68 (14.58)
+95% CI                    [3.45, 10.59]      [27.58, 84.74]
+
+Absolute effect (s.d.)    -0.96 (1.82)       -7.68 (14.58)
+95% CI                    [-4.47, 2.68]      [-35.74, 21.42]
+
+Relative effect (s.d.)    -13.55% (25.72%)   -13.55% (25.72%)
+95% CI                    [-63.05%, 37.78%]  [-63.05%, 37.78%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 69.53%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광공연장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.07 (0.11)        0.56 (0.86)
+95% CI                    [-0.14, 0.28]      [-1.13, 2.24]
+
+Absolute effect (s.d.)    0.05 (0.11)        0.44 (0.86)
+95% CI                    [-0.16, 0.27]      [-1.24, 2.13]
+
+Relative effect (s.d.)    77.56% (152.61%)   77.56% (152.61%)
+95% CI                    [-220.25%, 377.98%][-220.25%, 377.98%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 68.23%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광궤도업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.38               3.0
+Prediction (s.d.)         0.11 (0.13)        0.85 (1.01)
+95% CI                    [-0.14, 0.36]      [-1.12, 2.85]
+
+Absolute effect (s.d.)    0.27 (0.13)        2.15 (1.01)
+95% CI                    [0.02, 0.52]       [0.15, 4.12]
+
+Relative effect (s.d.)    251.09% (118.69%)  251.09% (118.69%)
+95% CI                    [17.09%, 482.36%]  [17.09%, 482.36%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 98.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+'shape' elements cannot be negative
+관광사업자
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.38               19.0
+Prediction (s.d.)         1.64 (0.63)        13.16 (5.07)
+95% CI                    [0.35, 2.84]       [2.83, 22.69]
+
+Absolute effect (s.d.)    0.73 (0.63)        5.84 (5.07)
+95% CI                    [-0.46, 2.02]      [-3.69, 16.17]
+
+Relative effect (s.d.)    44.4% (38.5%)      44.4% (38.5%)
+95% CI                    [-28.06%, 122.87%] [-28.06%, 122.87%]
+
+Posterior tail-area probability p: 0.14
+Posterior prob. of a causal effect: 86.21%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광숙박업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    13.25              106.0
+Prediction (s.d.)         12.53 (1.99)       100.21 (15.93)
+95% CI                    [8.55, 16.35]      [68.37, 130.82]
+
+Absolute effect (s.d.)    0.72 (1.99)        5.79 (15.93)
+95% CI                    [-3.1, 4.7]        [-24.82, 37.63]
+
+Relative effect (s.d.)    5.78% (15.9%)      5.78% (15.9%)
+95% CI                    [-24.76%, 37.55%]  [-24.76%, 37.55%]
+
+Posterior tail-area probability p: 0.34
+Posterior prob. of a causal effect: 65.73%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광식당
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.88               7.0
+Prediction (s.d.)         0.71 (0.33)        5.7 (2.68)
+95% CI                    [0.07, 1.38]       [0.52, 11.01]
+
+Absolute effect (s.d.)    0.16 (0.33)        1.3 (2.68)
+95% CI                    [-0.5, 0.81]       [-4.01, 6.48]
+
+Relative effect (s.d.)    22.73% (46.93%)    22.73% (46.93%)
+95% CI                    [-70.39%, 113.59%] [-70.39%, 113.59%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 70.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광유람선업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.25 (0.21)        1.98 (1.67)
+95% CI                    [-0.18, 0.63]      [-1.47, 5.08]
+
+Absolute effect (s.d.)    -0.25 (0.21)       -1.98 (1.67)
+95% CI                    [-0.63, 0.18]      [-5.08, 1.47]
+
+Relative effect (s.d.)    -100.0% (84.35%)   -100.0% (84.35%)
+95% CI                    [-256.48%, 74.17%] [-256.48%, 74.17%]
+
+Posterior tail-area probability p: 0.13
+Posterior prob. of a causal effect: 86.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+관광펜션업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.75               54.0
+Prediction (s.d.)         5.11 (1.06)        40.85 (8.47)
+95% CI                    [3.0, 7.15]        [24.01, 57.2]
+
+Absolute effect (s.d.)    1.64 (1.06)        13.15 (8.47)
+95% CI                    [-0.4, 3.75]       [-3.2, 29.99]
+
+Relative effect (s.d.)    32.18% (20.72%)    32.18% (20.72%)
+95% CI                    [-7.83%, 73.41%]   [-7.83%, 73.41%]
+
+Posterior tail-area probability p: 0.07
+Posterior prob. of a causal effect: 93.11%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+국내여행업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    15.62              125.0
+Prediction (s.d.)         21.76 (2.97)       174.07 (23.75)
+95% CI                    [15.69, 27.33]     [125.5, 218.61]
+
+Absolute effect (s.d.)    -6.13 (2.97)       -49.07 (23.75)
+95% CI                    [-11.7, -0.06]     [-93.61, -0.5]
+
+Relative effect (s.d.)    -28.19% (13.65%)   -28.19% (13.65%)
+95% CI                    [-53.78%, -0.29%]  [-53.78%, -0.29%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.5%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+국내외여행업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    52.75              422.0
+Prediction (s.d.)         20.59 (4.95)       164.72 (39.58)
+95% CI                    [10.47, 29.86]     [83.74, 238.9]
+
+Absolute effect (s.d.)    32.16 (4.95)       257.28 (39.58)
+95% CI                    [22.89, 42.28]     [183.1, 338.26]
+
+Relative effect (s.d.)    156.2% (24.03%)    156.2% (24.03%)
+95% CI                    [111.16%, 205.35%] [111.16%, 205.35%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+국제물류주선업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    14.5               116.0
+Prediction (s.d.)         13.66 (2.36)       109.3 (18.84)
+95% CI                    [8.94, 18.17]      [71.53, 145.39]
+
+Absolute effect (s.d.)    0.84 (2.36)        6.7 (18.84)
+95% CI                    [-3.67, 5.56]      [-29.39, 44.47]
+
+Relative effect (s.d.)    6.13% (17.24%)     6.13% (17.24%)
+95% CI                    [-26.88%, 40.69%]  [-26.88%, 40.69%]
+
+Posterior tail-area probability p: 0.37
+Posterior prob. of a causal effect: 62.74%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+국제회의기획업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.12               65.0
+Prediction (s.d.)         9.75 (2.46)        78.04 (19.7)
+95% CI                    [4.66, 14.31]      [37.25, 114.46]
+
+Absolute effect (s.d.)    -1.63 (2.46)       -13.04 (19.7)
+95% CI                    [-6.18, 3.47]      [-49.46, 27.75]
+
+Relative effect (s.d.)    -16.71% (25.24%)   -16.71% (25.24%)
+95% CI                    [-63.38%, 35.56%]  [-63.38%, 35.56%]
+
+Posterior tail-area probability p: 0.27
+Posterior prob. of a causal effect: 73.13%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+국제회의시설업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.04 (0.07)        0.29 (0.59)
+95% CI                    [-0.11, 0.18]      [-0.86, 1.45]
+
+Absolute effect (s.d.)    -0.04 (0.07)       -0.29 (0.59)
+95% CI                    [-0.18, 0.11]      [-1.45, 0.86]
+
+Relative effect (s.d.)    -100.0% (204.8%)   -100.0% (204.8%)
+95% CI                    [-504.19%, 298.61%][-504.19%, 298.61%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 70.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+급수공사대행업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.25               66.0
+Prediction (s.d.)         7.54 (2.06)        60.28 (16.49)
+95% CI                    [3.45, 11.53]      [27.61, 92.26]
+
+Absolute effect (s.d.)    0.71 (2.06)        5.72 (16.49)
+95% CI                    [-3.28, 4.8]       [-26.26, 38.39]
+
+Relative effect (s.d.)    9.48% (27.36%)     9.48% (27.36%)
+95% CI                    [-43.57%, 63.68%]  [-43.57%, 63.68%]
+
+Posterior tail-area probability p: 0.35
+Posterior prob. of a causal effect: 64.94%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+노래연습장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    46.0               368.0
+Prediction (s.d.)         23.61 (3.44)       188.87 (27.54)
+95% CI                    [16.68, 30.18]     [133.47, 241.44]
+
+Absolute effect (s.d.)    22.39 (3.44)       179.13 (27.54)
+95% CI                    [15.82, 29.32]     [126.56, 234.53]
+
+Relative effect (s.d.)    94.85% (14.58%)    94.85% (14.58%)
+95% CI                    [67.01%, 124.18%]  [67.01%, 124.18%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+다단계판매업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.75               6.0
+Prediction (s.d.)         1.04 (0.44)        8.29 (3.49)
+95% CI                    [0.17, 1.88]       [1.33, 15.0]
+
+Absolute effect (s.d.)    -0.29 (0.44)       -2.29 (3.49)
+95% CI                    [-1.13, 0.58]      [-9.0, 4.67]
+
+Relative effect (s.d.)    -27.6% (42.09%)    -27.6% (42.09%)
+95% CI                    [-108.63%, 56.35%] [-108.63%, 56.35%]
+
+Posterior tail-area probability p: 0.27
+Posterior prob. of a causal effect: 73.23%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+단독정화조/오수처리시설설계시공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.0                16.0
+Prediction (s.d.)         2.21 (0.7)         17.71 (5.59)
+95% CI                    [0.88, 3.62]       [7.04, 28.96]
+
+Absolute effect (s.d.)    -0.21 (0.7)        -1.71 (5.59)
+95% CI                    [-1.62, 1.12]      [-12.96, 8.96]
+
+Relative effect (s.d.)    -9.67% (31.56%)    -9.67% (31.56%)
+95% CI                    [-73.16%, 50.58%]  [-73.16%, 50.58%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 62.04%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+단란주점영업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    29.0               232.0
+Prediction (s.d.)         13.43 (1.67)       107.48 (13.34)
+95% CI                    [10.12, 16.66]     [80.99, 133.28]
+
+Absolute effect (s.d.)    15.57 (1.67)       124.52 (13.34)
+95% CI                    [12.34, 18.88]     [98.72, 151.01]
+
+Relative effect (s.d.)    115.86% (12.41%)   115.86% (12.41%)
+95% CI                    [91.85%, 140.5%]   [91.85%, 140.5%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+담배도매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.88               15.0
+Prediction (s.d.)         2.59 (1.43)        20.69 (11.45)
+95% CI                    [-0.26, 5.35]      [-2.05, 42.82]
+
+Absolute effect (s.d.)    -0.71 (1.43)       -5.69 (11.45)
+95% CI                    [-3.48, 2.13]      [-27.82, 17.05]
+
+Relative effect (s.d.)    -27.51% (55.33%)   -27.51% (55.33%)
+95% CI                    [-134.46%, 82.41%] [-134.46%, 82.41%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 70.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+담배소매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1123.75            8990.0
+Prediction (s.d.)         970.64 (71.78)     7765.11 (574.22)
+95% CI                    [831.38, 1112.74]  [6651.01, 8901.93]
+
+Absolute effect (s.d.)    153.11 (71.78)     1224.89 (574.22)
+95% CI                    [11.01, 292.37]    [88.07, 2338.99]
+
+Relative effect (s.d.)    15.77% (7.39%)     15.77% (7.39%)
+95% CI                    [1.13%, 30.12%]    [1.13%, 30.12%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+담배수입판매업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.12               9.0
+Prediction (s.d.)         1.14 (0.33)        9.14 (2.61)
+95% CI                    [0.45, 1.74]       [3.64, 13.89]
+
+Absolute effect (s.d.)    -0.02 (0.33)       -0.14 (2.61)
+95% CI                    [-0.61, 0.67]      [-4.89, 5.36]
+
+Relative effect (s.d.)    -1.52% (28.6%)     -1.52% (28.6%)
+95% CI                    [-53.46%, 58.66%]  [-53.46%, 58.66%]
+
+Posterior tail-area probability p: 0.48
+Posterior prob. of a causal effect: 52.15%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+당구장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    40.5               324.0
+Prediction (s.d.)         49.41 (4.66)       395.31 (37.27)
+95% CI                    [40.25, 58.51]     [322.03, 468.11]
+
+Absolute effect (s.d.)    -8.91 (4.66)       -71.31 (37.27)
+95% CI                    [-18.01, 0.25]     [-144.11, 1.97]
+
+Relative effect (s.d.)    -18.04% (9.43%)    -18.04% (9.43%)
+95% CI                    [-36.46%, 0.5%]    [-36.46%, 0.5%]
+
+Posterior tail-area probability p: 0.03
+Posterior prob. of a causal effect: 97.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+대규모점포
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.38               35.0
+Prediction (s.d.)         4.44 (1.21)        35.5 (9.66)
+95% CI                    [2.04, 6.78]       [16.35, 54.21]
+
+Absolute effect (s.d.)    -0.06 (1.21)       -0.5 (9.66)
+95% CI                    [-2.4, 2.33]       [-19.21, 18.65]
+
+Relative effect (s.d.)    -1.42% (27.2%)     -1.42% (27.2%)
+95% CI                    [-54.1%, 52.53%]   [-54.1%, 52.53%]
+
+Posterior tail-area probability p: 0.47
+Posterior prob. of a causal effect: 53.45%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+대기오염물질배출시설설치사업장
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    248.12             1985.0
+Prediction (s.d.)         268.54 (44.7)      2148.29 (357.6)
+95% CI                    [179.64, 354.86]   [1437.11, 2838.88]
+
+Absolute effect (s.d.)    -20.41 (44.7)      -163.29 (357.6)
+95% CI                    [-106.74, 68.49]   [-853.88, 547.89]
+
+Relative effect (s.d.)    -7.6% (16.65%)     -7.6% (16.65%)
+95% CI                    [-39.75%, 25.5%]   [-39.75%, 25.5%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 67.53%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+대중문화예술기획업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    56.62              453.0
+Prediction (s.d.)         43.57 (7.36)       348.53 (58.88)
+95% CI                    [29.01, 57.86]     [232.07, 462.89]
+
+Absolute effect (s.d.)    13.06 (7.36)       104.47 (58.88)
+95% CI                    [-1.24, 27.62]     [-9.89, 220.93]
+
+Relative effect (s.d.)    29.97% (16.89%)    29.97% (16.89%)
+95% CI                    [-2.84%, 63.39%]   [-2.84%, 63.39%]
+
+Posterior tail-area probability p: 0.04
+Posterior prob. of a causal effect: 95.5%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+도축업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.11 (0.12)        0.87 (0.99)
+95% CI                    [-0.15, 0.33]      [-1.23, 2.67]
+
+Absolute effect (s.d.)    -0.11 (0.12)       -0.87 (0.99)
+95% CI                    [-0.33, 0.15]      [-2.67, 1.23]
+
+Relative effect (s.d.)    -100.0% (114.38%)  -100.0% (114.38%)
+95% CI                    [-307.01%, 141.34%][-307.01%, 141.34%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 79.02%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물미용업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    119.12             953.0
+Prediction (s.d.)         102.41 (10.57)     819.27 (84.57)
+95% CI                    [81.78, 123.22]    [654.24, 985.77]
+
+Absolute effect (s.d.)    16.72 (10.57)      133.73 (84.57)
+95% CI                    [-4.1, 37.34]      [-32.77, 298.76]
+
+Relative effect (s.d.)    16.32% (10.32%)    16.32% (10.32%)
+95% CI                    [-4.0%, 36.47%]    [-4.0%, 36.47%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 94.21%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물병원
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    22.5               180.0
+Prediction (s.d.)         22.5 (2.69)        180.01 (21.49)
+95% CI                    [17.33, 27.87]     [138.67, 222.93]
+
+Absolute effect (s.d.)    -0.0 (2.69)        -0.01 (21.49)
+95% CI                    [-5.37, 5.17]      [-42.93, 41.33]
+
+Relative effect (s.d.)    -0.0% (11.94%)     -0.0% (11.94%)
+95% CI                    [-23.85%, 22.96%]  [-23.85%, 22.96%]
+
+Posterior tail-area probability p: 0.49
+Posterior prob. of a causal effect: 50.55%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물생산업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    22.25              178.0
+Prediction (s.d.)         21.53 (2.33)       172.25 (18.63)
+95% CI                    [17.02, 26.15]     [136.16, 209.18]
+
+Absolute effect (s.d.)    0.72 (2.33)        5.75 (18.63)
+95% CI                    [-3.9, 5.23]       [-31.18, 41.84]
+
+Relative effect (s.d.)    3.34% (10.81%)     3.34% (10.81%)
+95% CI                    [-18.1%, 24.29%]   [-18.1%, 24.29%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 62.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물수입업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.38               19.0
+Prediction (s.d.)         2.22 (0.54)        17.73 (4.3)
+95% CI                    [1.21, 3.32]       [9.7, 26.53]
+
+Absolute effect (s.d.)    0.16 (0.54)        1.27 (4.3)
+95% CI                    [-0.94, 1.16]      [-7.53, 9.3]
+
+Relative effect (s.d.)    7.17% (24.23%)     7.17% (24.23%)
+95% CI                    [-42.5%, 52.49%]   [-42.5%, 52.49%]
+
+Posterior tail-area probability p: 0.37
+Posterior prob. of a causal effect: 62.54%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물약국
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    165.5              1324.0
+Prediction (s.d.)         118.44 (16.8)      947.55 (134.39)
+95% CI                    [84.81, 150.66]    [678.47, 1205.26]
+
+Absolute effect (s.d.)    47.06 (16.8)       376.45 (134.39)
+95% CI                    [14.84, 80.69]     [118.74, 645.53]
+
+Relative effect (s.d.)    39.73% (14.18%)    39.73% (14.18%)
+95% CI                    [12.53%, 68.13%]   [12.53%, 68.13%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물용의료용구판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    79.12              633.0
+Prediction (s.d.)         24.68 (4.5)        197.46 (36.02)
+95% CI                    [15.58, 33.23]     [124.66, 265.86]
+
+Absolute effect (s.d.)    54.44 (4.5)        435.54 (36.02)
+95% CI                    [45.89, 63.54]     [367.14, 508.34]
+
+Relative effect (s.d.)    220.58% (18.24%)   220.58% (18.24%)
+95% CI                    [185.94%, 257.44%] [185.94%, 257.44%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물용의약품도매상
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    3.38               27.0
+Prediction (s.d.)         3.34 (0.73)        26.73 (5.82)
+95% CI                    [1.91, 4.77]       [15.32, 38.15]
+
+Absolute effect (s.d.)    0.03 (0.73)        0.27 (5.82)
+95% CI                    [-1.39, 1.46]      [-11.15, 11.68]
+
+Relative effect (s.d.)    0.99% (21.78%)     0.99% (21.78%)
+95% CI                    [-41.7%, 43.69%]   [-41.7%, 43.69%]
+
+Posterior tail-area probability p: 0.47
+Posterior prob. of a causal effect: 53.45%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물운송업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    64.25              514.0
+Prediction (s.d.)         20.11 (7.73)       160.89 (61.86)
+95% CI                    [4.35, 34.66]      [34.84, 277.31]
+
+Absolute effect (s.d.)    44.14 (7.73)       353.11 (61.86)
+95% CI                    [29.59, 59.9]      [236.69, 479.16]
+
+Relative effect (s.d.)    219.47% (38.45%)   219.47% (38.45%)
+95% CI                    [147.11%, 297.82%] [147.11%, 297.82%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물위탁관리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    76.88              615.0
+Prediction (s.d.)         60.16 (4.88)       481.3 (39.07)
+95% CI                    [51.19, 70.33]     [409.48, 562.65]
+
+Absolute effect (s.d.)    16.71 (4.88)       133.7 (39.07)
+95% CI                    [6.54, 25.69]      [52.35, 205.52]
+
+Relative effect (s.d.)    27.78% (8.12%)     27.78% (8.12%)
+95% CI                    [10.88%, 42.7%]    [10.88%, 42.7%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물장묘업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.75               6.0
+Prediction (s.d.)         0.71 (0.4)         5.68 (3.17)
+95% CI                    [-0.04, 1.52]      [-0.29, 12.12]
+
+Absolute effect (s.d.)    0.04 (0.4)         0.32 (3.17)
+95% CI                    [-0.77, 0.79]      [-6.12, 6.29]
+
+Relative effect (s.d.)    5.64% (55.74%)     5.64% (55.74%)
+95% CI                    [-107.8%, 110.68%] [-107.8%, 110.68%]
+
+Posterior tail-area probability p: 0.44
+Posterior prob. of a causal effect: 56.04%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물전시업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    7.0                56.0
+Prediction (s.d.)         8.54 (1.52)        68.31 (12.18)
+95% CI                    [5.6, 11.57]       [44.81, 92.56]
+
+Absolute effect (s.d.)    -1.54 (1.52)       -12.31 (12.18)
+95% CI                    [-4.57, 1.4]       [-36.56, 11.19]
+
+Relative effect (s.d.)    -18.02% (17.83%)   -18.02% (17.83%)
+95% CI                    [-53.52%, 16.38%]  [-53.52%, 16.38%]
+
+Posterior tail-area probability p: 0.15
+Posterior prob. of a causal effect: 85.21%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+동물판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    42.62              341.0
+Prediction (s.d.)         32.37 (4.35)       258.99 (34.8)
+95% CI                    [23.57, 40.62]     [188.57, 324.98]
+
+Absolute effect (s.d.)    10.25 (4.35)       82.01 (34.8)
+95% CI                    [2.0, 19.05]       [16.02, 152.43]
+
+Relative effect (s.d.)    31.67% (13.44%)    31.67% (13.44%)
+95% CI                    [6.19%, 58.86%]    [6.19%, 58.86%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 99.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+등록체육시설업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.5                4.0
+Prediction (s.d.)         0.5 (0.23)         4.0 (1.84)
+95% CI                    [0.04, 0.94]       [0.33, 7.53]
+
+Absolute effect (s.d.)    -0.0 (0.23)        -0.0 (1.84)
+95% CI                    [-0.44, 0.46]      [-3.53, 3.67]
+
+Relative effect (s.d.)    -0.06% (45.9%)     -0.06% (45.9%)
+95% CI                    [-88.13%, 91.79%]  [-88.13%, 91.79%]
+
+Posterior tail-area probability p: 0.49
+Posterior prob. of a causal effect: 51.35%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+목욕장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    9.5                76.0
+Prediction (s.d.)         8.43 (1.8)         67.4 (14.41)
+95% CI                    [4.9, 11.96]       [39.2, 95.68]
+
+Absolute effect (s.d.)    1.07 (1.8)         8.6 (14.41)
+95% CI                    [-2.46, 4.6]       [-19.68, 36.8]
+
+Relative effect (s.d.)    12.75% (21.38%)    12.75% (21.38%)
+95% CI                    [-29.2%, 54.59%]   [-29.2%, 54.59%]
+
+Posterior tail-area probability p: 0.29
+Posterior prob. of a causal effect: 71.03%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+목재수입유통업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    16.38              131.0
+Prediction (s.d.)         14.76 (2.49)       118.11 (19.89)
+95% CI                    [9.74, 19.48]      [77.89, 155.86]
+
+Absolute effect (s.d.)    1.61 (2.49)        12.89 (19.89)
+95% CI                    [-3.11, 6.64]      [-24.86, 53.11]
+
+Relative effect (s.d.)    10.91% (16.84%)    10.91% (16.84%)
+95% CI                    [-21.05%, 44.97%]  [-21.05%, 44.97%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 75.02%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+무도장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.38               3.0
+Prediction (s.d.)         0.67 (0.4)         5.4 (3.22)
+95% CI                    [-0.11, 1.47]      [-0.88, 11.75]
+
+Absolute effect (s.d.)    -0.3 (0.4)         -2.4 (3.22)
+95% CI                    [-1.09, 0.48]      [-8.75, 3.88]
+
+Relative effect (s.d.)    -44.43% (59.67%)   -44.43% (59.67%)
+95% CI                    [-162.12%, 71.79%] [-162.12%, 71.79%]
+
+Posterior tail-area probability p: 0.22
+Posterior prob. of a causal effect: 77.92%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+무도학원업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.5                12.0
+Prediction (s.d.)         1.92 (0.72)        15.38 (5.76)
+95% CI                    [0.52, 3.34]       [4.15, 26.72]
+
+Absolute effect (s.d.)    -0.42 (0.72)       -3.38 (5.76)
+95% CI                    [-1.84, 0.98]      [-14.72, 7.85]
+
+Relative effect (s.d.)    -21.99% (37.43%)   -21.99% (37.43%)
+95% CI                    [-95.68%, 51.03%]  [-95.68%, 51.03%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 74.73%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+무료직업소개소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    9.75               78.0
+Prediction (s.d.)         7.92 (2.01)        63.33 (16.09)
+95% CI                    [3.94, 11.82]      [31.5, 94.57]
+
+Absolute effect (s.d.)    1.83 (2.01)        14.67 (16.09)
+95% CI                    [-2.07, 5.81]      [-16.57, 46.5]
+
+Relative effect (s.d.)    23.16% (25.41%)    23.16% (25.41%)
+95% CI                    [-26.16%, 73.43%]  [-26.16%, 73.43%]
+
+Posterior tail-area probability p: 0.18
+Posterior prob. of a causal effect: 82.22%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+문화예술법인
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.38               67.0
+Prediction (s.d.)         10.18 (1.34)       81.4 (10.69)
+95% CI                    [7.51, 12.75]      [60.09, 101.99]
+
+Absolute effect (s.d.)    -1.8 (1.34)        -14.4 (10.69)
+95% CI                    [-4.37, 0.86]      [-34.99, 6.91]
+
+Relative effect (s.d.)    -17.69% (13.13%)   -17.69% (13.13%)
+95% CI                    [-42.99%, 8.49%]   [-42.99%, 8.49%]
+
+Posterior tail-area probability p: 0.11
+Posterior prob. of a causal effect: 88.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+물류창고업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    24.88              199.0
+Prediction (s.d.)         16.37 (2.74)       130.92 (21.89)
+95% CI                    [11.04, 21.77]     [88.34, 174.16]
+
+Absolute effect (s.d.)    8.51 (2.74)        68.08 (21.89)
+95% CI                    [3.11, 13.83]      [24.84, 110.66]
+
+Relative effect (s.d.)    52.0% (16.72%)     52.0% (16.72%)
+95% CI                    [18.98%, 84.53%]   [18.98%, 84.53%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+미용업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1468.5             11748.0
+Prediction (s.d.)         1217.02 (121.84)   9736.18 (974.76)
+95% CI                    [974.58, 1452.2]   [7796.66, 11617.64]
+
+Absolute effect (s.d.)    251.48 (121.84)    2011.82 (974.76)
+95% CI                    [16.3, 493.92]     [130.36, 3951.34]
+
+Relative effect (s.d.)    20.66% (10.01%)    20.66% (10.01%)
+95% CI                    [1.34%, 40.58%]    [1.34%, 40.58%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 98.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+민방위급수시설
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    9.25               74.0
+Prediction (s.d.)         19.29 (10.69)      154.28 (85.55)
+95% CI                    [-0.86, 41.05]     [-6.92, 328.42]
+
+Absolute effect (s.d.)    -10.04 (10.69)     -80.28 (85.55)
+95% CI                    [-31.8, 10.11]     [-254.42, 80.92]
+
+Relative effect (s.d.)    -52.04% (55.45%)   -52.04% (55.45%)
+95% CI                    [-164.91%, 52.45%] [-164.91%, 52.45%]
+
+Posterior tail-area probability p: 0.19
+Posterior prob. of a causal effect: 81.12%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+민방위대피시설
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    24.12              193.0
+Prediction (s.d.)         25.43 (5.78)       203.43 (46.2)
+95% CI                    [14.71, 37.35]     [117.66, 298.77]
+
+Absolute effect (s.d.)    -1.3 (5.78)        -10.43 (46.2)
+95% CI                    [-13.22, 9.42]     [-105.77, 75.34]
+
+Relative effect (s.d.)    -5.13% (22.71%)    -5.13% (22.71%)
+95% CI                    [-51.99%, 37.04%]  [-51.99%, 37.04%]
+
+Posterior tail-area probability p: 0.42
+Posterior prob. of a causal effect: 58.44%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+박물관, 미술관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.38               11.0
+Prediction (s.d.)         2.99 (1.0)         23.9 (7.97)
+95% CI                    [1.09, 4.99]       [8.7, 39.93]
+
+Absolute effect (s.d.)    -1.61 (1.0)        -12.9 (7.97)
+95% CI                    [-3.62, 0.29]      [-28.93, 2.3]
+
+Relative effect (s.d.)    -53.98% (33.34%)   -53.98% (33.34%)
+95% CI                    [-121.05%, 9.63%]  [-121.05%, 9.63%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 94.41%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+방문판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    208.38             1667.0
+Prediction (s.d.)         155.22 (24.61)     1241.77 (196.84)
+95% CI                    [107.31, 203.76]   [858.46, 1630.08]
+
+Absolute effect (s.d.)    53.15 (24.61)      425.23 (196.84)
+95% CI                    [4.62, 101.07]     [36.92, 808.54]
+
+Relative effect (s.d.)    34.24% (15.85%)    34.24% (15.85%)
+95% CI                    [2.97%, 65.11%]    [2.97%, 65.11%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 98.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+배출가스전문정비사업자(확인검사대행자)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.12               9.0
+Prediction (s.d.)         6.53 (3.0)         52.21 (24.02)
+95% CI                    [0.71, 12.48]      [5.66, 99.81]
+
+Absolute effect (s.d.)    -5.4 (3.0)         -43.21 (24.02)
+95% CI                    [-11.35, 0.42]     [-90.81, 3.34]
+
+Relative effect (s.d.)    -82.76% (46.0%)    -82.76% (46.0%)
+95% CI                    [-173.92%, 6.4%]   [-173.92%, 6.4%]
+
+Posterior tail-area probability p: 0.04
+Posterior prob. of a causal effect: 96.3%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+병원
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    14.88              119.0
+Prediction (s.d.)         15.57 (2.09)       124.54 (16.72)
+95% CI                    [11.27, 19.47]     [90.19, 155.73]
+
+Absolute effect (s.d.)    -0.69 (2.09)       -5.54 (16.72)
+95% CI                    [-4.59, 3.6]       [-36.73, 28.81]
+
+Relative effect (s.d.)    -4.45% (13.43%)    -4.45% (13.43%)
+95% CI                    [-29.49%, 23.14%]  [-29.49%, 23.14%]
+
+Posterior tail-area probability p: 0.37
+Posterior prob. of a causal effect: 63.14%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+복합영상물제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.04 (0.08)        0.29 (0.64)
+95% CI                    [-0.13, 0.19]      [-1.0, 1.49]
+
+Absolute effect (s.d.)    -0.04 (0.08)       -0.29 (0.64)
+95% CI                    [-0.19, 0.13]      [-1.49, 1.0]
+
+Relative effect (s.d.)    -100.0% (222.27%)  -100.0% (222.27%)
+95% CI                    [-521.08%, 350.22%][-521.08%, 350.22%]
+
+Posterior tail-area probability p: 0.35
+Posterior prob. of a causal effect: 65.13%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+복합유통게임제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    9.62               77.0
+Prediction (s.d.)         7.75 (1.95)        62.03 (15.57)
+95% CI                    [3.89, 11.52]      [31.16, 92.17]
+
+Absolute effect (s.d.)    1.87 (1.95)        14.97 (15.57)
+95% CI                    [-1.9, 5.73]       [-15.17, 45.84]
+
+Relative effect (s.d.)    24.14% (25.09%)    24.14% (25.09%)
+95% CI                    [-24.46%, 73.9%]   [-24.46%, 73.9%]
+
+Posterior tail-area probability p: 0.19
+Posterior prob. of a causal effect: 81.32%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+부속의료기관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.25               10.0
+Prediction (s.d.)         0.68 (0.33)        5.46 (2.67)
+95% CI                    [0.03, 1.34]       [0.22, 10.69]
+
+Absolute effect (s.d.)    0.57 (0.33)        4.54 (2.67)
+95% CI                    [-0.09, 1.22]      [-0.69, 9.78]
+
+Relative effect (s.d.)    83.27% (48.95%)    83.27% (48.95%)
+95% CI                    [-12.67%, 179.22%] [-12.67%, 179.22%]
+
+Posterior tail-area probability p: 0.04
+Posterior prob. of a causal effect: 95.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+부화업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.38               3.0
+Prediction (s.d.)         0.46 (0.26)        3.72 (2.11)
+95% CI                    [-0.07, 0.97]      [-0.54, 7.72]
+
+Absolute effect (s.d.)    -0.09 (0.26)       -0.72 (2.11)
+95% CI                    [-0.59, 0.44]      [-4.72, 3.54]
+
+Relative effect (s.d.)    -19.31% (56.7%)    -19.31% (56.7%)
+95% CI                    [-126.97%, 95.29%] [-126.97%, 95.29%]
+
+Posterior tail-area probability p: 0.34
+Posterior prob. of a causal effect: 66.23%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+분뇨수집운반업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.62               13.0
+Prediction (s.d.)         1.46 (0.56)        11.71 (4.48)
+95% CI                    [0.34, 2.53]       [2.7, 20.27]
+
+Absolute effect (s.d.)    0.16 (0.56)        1.29 (4.48)
+95% CI                    [-0.91, 1.29]      [-7.27, 10.3]
+
+Relative effect (s.d.)    11.06% (38.3%)     11.06% (38.3%)
+95% CI                    [-62.15%, 87.99%]  [-62.15%, 87.99%]
+
+Posterior tail-area probability p: 0.39
+Posterior prob. of a causal effect: 61.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+비디오물감상실업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.07 (0.16)        0.58 (1.25)
+95% CI                    [-0.23, 0.39]      [-1.8, 3.08]
+
+Absolute effect (s.d.)    0.05 (0.16)        0.42 (1.25)
+95% CI                    [-0.26, 0.35]      [-2.08, 2.8]
+
+Relative effect (s.d.)    71.57% (213.66%)   71.57% (213.66%)
+95% CI                    [-357.05%, 480.48%][-357.05%, 480.48%]
+
+Posterior tail-area probability p: 0.34
+Posterior prob. of a causal effect: 65.83%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+비디오물배급업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    5.88               47.0
+Prediction (s.d.)         6.72 (1.07)        53.72 (8.56)
+95% CI                    [4.56, 8.75]       [36.48, 70.04]
+
+Absolute effect (s.d.)    -0.84 (1.07)       -6.72 (8.56)
+95% CI                    [-2.88, 1.32]      [-23.04, 10.52]
+
+Relative effect (s.d.)    -12.52% (15.94%)   -12.52% (15.94%)
+95% CI                    [-42.88%, 19.58%]  [-42.88%, 19.58%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 78.62%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+비디오물시청제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.04 (0.08)        0.28 (0.64)
+95% CI                    [-0.12, 0.2]       [-0.94, 1.57]
+
+Absolute effect (s.d.)    -0.04 (0.08)       -0.28 (0.64)
+95% CI                    [-0.2, 0.12]       [-1.57, 0.94]
+
+Relative effect (s.d.)    -100.0% (227.12%)  -100.0% (227.12%)
+95% CI                    [-557.44%, 332.84%][-557.44%, 332.84%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 70.03%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+비디오물제작업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    127.12             1017.0
+Prediction (s.d.)         139.53 (13.69)     1116.27 (109.54)
+95% CI                    [113.73, 167.41]   [909.86, 1339.25]
+
+Absolute effect (s.d.)    -12.41 (13.69)     -99.27 (109.54)
+95% CI                    [-40.28, 13.39]    [-322.25, 107.14]
+
+Relative effect (s.d.)    -8.89% (9.81%)     -8.89% (9.81%)
+95% CI                    [-28.87%, 9.6%]    [-28.87%, 9.6%]
+
+Posterior tail-area probability p: 0.17
+Posterior prob. of a causal effect: 83.12%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+빙상장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.25               10.0
+Prediction (s.d.)         0.39 (0.26)        3.14 (2.11)
+95% CI                    [-0.13, 0.91]      [-1.01, 7.25]
+
+Absolute effect (s.d.)    0.86 (0.26)        6.86 (2.11)
+95% CI                    [0.34, 1.38]       [2.75, 11.01]
+
+Relative effect (s.d.)    218.68% (67.17%)   218.68% (67.17%)
+95% CI                    [87.58%, 350.9%]   [87.58%, 350.9%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+사료제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    105.25             842.0
+Prediction (s.d.)         102.92 (13.5)      823.35 (107.98)
+95% CI                    [76.02, 128.93]    [608.17, 1031.43]
+
+Absolute effect (s.d.)    2.33 (13.5)        18.65 (107.98)
+95% CI                    [-23.68, 29.23]    [-189.43, 233.83]
+
+Relative effect (s.d.)    2.27% (13.11%)     2.27% (13.11%)
+95% CI                    [-23.01%, 28.4%]   [-23.01%, 28.4%]
+
+Posterior tail-area probability p: 0.43
+Posterior prob. of a causal effect: 57.14%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+산후조리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.88               7.0
+Prediction (s.d.)         1.32 (0.57)        10.58 (4.55)
+95% CI                    [0.25, 2.48]       [2.0, 19.83]
+
+Absolute effect (s.d.)    -0.45 (0.57)       -3.58 (4.55)
+95% CI                    [-1.6, 0.63]       [-12.83, 5.0]
+
+Relative effect (s.d.)    -33.81% (43.02%)   -33.81% (43.02%)
+95% CI                    [-121.35%, 47.28%] [-121.35%, 47.28%]
+
+Posterior tail-area probability p: 0.19
+Posterior prob. of a causal effect: 81.42%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+상조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.11 (0.17)        0.85 (1.35)
+95% CI                    [-0.23, 0.43]      [-1.84, 3.47]
+
+Absolute effect (s.d.)    0.02 (0.17)        0.15 (1.35)
+95% CI                    [-0.31, 0.35]      [-2.47, 2.84]
+
+Relative effect (s.d.)    17.13% (158.68%)   17.13% (158.68%)
+95% CI                    [-289.87%, 332.14%][-289.87%, 332.14%]
+
+Posterior tail-area probability p: 0.44
+Posterior prob. of a causal effect: 55.54%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+석연탄제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.11 (0.13)        0.87 (1.03)
+95% CI                    [-0.15, 0.36]      [-1.19, 2.85]
+
+Absolute effect (s.d.)    -0.11 (0.13)       -0.87 (1.03)
+95% CI                    [-0.36, 0.15]      [-2.85, 1.19]
+
+Relative effect (s.d.)    -100.0% (119.18%)  -100.0% (119.18%)
+95% CI                    [-329.7%, 137.48%] [-329.7%, 137.48%]
+
+Posterior tail-area probability p: 0.18
+Posterior prob. of a causal effect: 81.92%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+석유및석유대체연료판매업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    5.88               47.0
+Prediction (s.d.)         3.94 (0.74)        31.49 (5.89)
+95% CI                    [2.43, 5.31]       [19.42, 42.51]
+
+Absolute effect (s.d.)    1.94 (0.74)        15.51 (5.89)
+95% CI                    [0.56, 3.45]       [4.49, 27.58]
+
+Relative effect (s.d.)    49.25% (18.7%)     49.25% (18.7%)
+95% CI                    [14.25%, 87.57%]   [14.25%, 87.57%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+석유판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    14.12              113.0
+Prediction (s.d.)         9.93 (1.34)        79.43 (10.75)
+95% CI                    [7.27, 12.54]      [58.19, 100.34]
+
+Absolute effect (s.d.)    4.2 (1.34)         33.57 (10.75)
+95% CI                    [1.58, 6.85]       [12.66, 54.81]
+
+Relative effect (s.d.)    42.27% (13.54%)    42.27% (13.54%)
+95% CI                    [15.94%, 69.01%]   [15.94%, 69.01%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+세탁업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    27.88              223.0
+Prediction (s.d.)         29.53 (3.44)       236.26 (27.52)
+95% CI                    [22.51, 35.99]     [180.06, 287.93]
+
+Absolute effect (s.d.)    -1.66 (3.44)       -13.26 (27.52)
+95% CI                    [-8.12, 5.37]      [-64.93, 42.94]
+
+Relative effect (s.d.)    -5.61% (11.65%)    -5.61% (11.65%)
+95% CI                    [-27.48%, 18.17%]  [-27.48%, 18.17%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 68.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+소독업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    82.75              662.0
+Prediction (s.d.)         157.09 (21.97)     1256.69 (175.78)
+95% CI                    [110.85, 196.98]   [886.83, 1575.88]
+
+Absolute effect (s.d.)    -74.34 (21.97)     -594.69 (175.78)
+95% CI                    [-114.23, -28.1]   [-913.88, -224.83]
+
+Relative effect (s.d.)    -47.32% (13.99%)   -47.32% (13.99%)
+95% CI                    [-72.72%, -17.89%] [-72.72%, -17.89%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+수영장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.75               38.0
+Prediction (s.d.)         4.31 (1.18)        34.49 (9.46)
+95% CI                    [1.96, 6.6]        [15.69, 52.78]
+
+Absolute effect (s.d.)    0.44 (1.18)        3.51 (9.46)
+95% CI                    [-1.85, 2.79]      [-14.78, 22.31]
+
+Relative effect (s.d.)    10.19% (27.43%)    10.19% (27.43%)
+95% CI                    [-42.86%, 64.68%]  [-42.86%, 64.68%]
+
+Posterior tail-area probability p: 0.35
+Posterior prob. of a causal effect: 65.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+수질오염원설치시설(기타)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    62.75              502.0
+Prediction (s.d.)         386.85 (427.23)    3094.78 (3417.81)
+95% CI                    [-438.21, 1236.49] [-3505.66, 9891.91]
+
+Absolute effect (s.d.)    -324.1 (427.23)    -2592.78 (3417.81)
+95% CI                    [-1173.74, 500.96] [-9389.91, 4007.66]
+
+Relative effect (s.d.)    -83.78% (110.44%)  -83.78% (110.44%)
+95% CI                    [-303.41%, 129.5%] [-303.41%, 129.5%]
+
+Posterior tail-area probability p: 0.23
+Posterior prob. of a causal effect: 76.52%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+숙박업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    71.25              570.0
+Prediction (s.d.)         69.52 (7.98)       556.19 (63.84)
+95% CI                    [54.07, 85.35]     [432.54, 682.77]
+
+Absolute effect (s.d.)    1.73 (7.98)        13.81 (63.84)
+95% CI                    [-14.1, 17.18]     [-112.77, 137.46]
+
+Relative effect (s.d.)    2.48% (11.48%)     2.48% (11.48%)
+95% CI                    [-20.28%, 24.71%]  [-20.28%, 24.71%]
+
+Posterior tail-area probability p: 0.39
+Posterior prob. of a causal effect: 60.74%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+승강기유지관리업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.62               21.0
+Prediction (s.d.)         2.89 (0.84)        23.16 (6.73)
+95% CI                    [1.22, 4.52]       [9.79, 36.16]
+
+Absolute effect (s.d.)    -0.27 (0.84)       -2.16 (6.73)
+95% CI                    [-1.89, 1.4]       [-15.16, 11.21]
+
+Relative effect (s.d.)    -9.31% (29.05%)    -9.31% (29.05%)
+95% CI                    [-65.46%, 48.43%]  [-65.46%, 48.43%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 62.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+승강기제조및수입업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.88               15.0
+Prediction (s.d.)         1.5 (0.49)         12.02 (3.91)
+95% CI                    [0.53, 2.44]       [4.2, 19.54]
+
+Absolute effect (s.d.)    0.37 (0.49)        2.98 (3.91)
+95% CI                    [-0.57, 1.35]      [-4.54, 10.8]
+
+Relative effect (s.d.)    24.83% (32.57%)    24.83% (32.57%)
+95% CI                    [-37.8%, 89.87%]   [-37.8%, 89.87%]
+
+Posterior tail-area probability p: 0.22
+Posterior prob. of a causal effect: 77.52%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+승마장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.38               3.0
+Prediction (s.d.)         0.29 (0.21)        2.28 (1.72)
+95% CI                    [-0.13, 0.71]      [-1.05, 5.68]
+
+Absolute effect (s.d.)    0.09 (0.21)        0.72 (1.72)
+95% CI                    [-0.34, 0.51]      [-2.68, 4.05]
+
+Relative effect (s.d.)    31.3% (75.13%)     31.3% (75.13%)
+95% CI                    [-117.42%, 177.09%][-117.42%, 177.09%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 62.34%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+시내순환관광업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.25               2.0
+Prediction (s.d.)         0.4 (0.24)         3.16 (1.9)
+95% CI                    [-0.08, 0.85]      [-0.65, 6.82]
+
+Absolute effect (s.d.)    -0.15 (0.24)       -1.16 (1.9)
+95% CI                    [-0.6, 0.33]       [-4.82, 2.65]
+
+Relative effect (s.d.)    -36.75% (60.21%)   -36.75% (60.21%)
+95% CI                    [-152.3%, 83.73%]  [-152.3%, 83.73%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 75.22%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식용얼음판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.07 (0.1)         0.57 (0.81)
+95% CI                    [-0.13, 0.27]      [-1.04, 2.13]
+
+Absolute effect (s.d.)    0.05 (0.1)         0.43 (0.81)
+95% CI                    [-0.14, 0.26]      [-1.13, 2.04]
+
+Relative effect (s.d.)    76.06% (142.57%)   76.06% (142.57%)
+95% CI                    [-199.22%, 359.66%][-199.22%, 359.66%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 68.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식육포장처리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    62.25              498.0
+Prediction (s.d.)         58.18 (5.77)       465.42 (46.18)
+95% CI                    [47.29, 69.92]     [378.35, 559.37]
+
+Absolute effect (s.d.)    4.07 (5.77)        32.58 (46.18)
+95% CI                    [-7.67, 14.96]     [-61.37, 119.65]
+
+Relative effect (s.d.)    7.0% (9.92%)       7.0% (9.92%)
+95% CI                    [-13.19%, 25.71%]  [-13.19%, 25.71%]
+
+Posterior tail-area probability p: 0.24
+Posterior prob. of a causal effect: 75.72%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품냉동냉장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.75               54.0
+Prediction (s.d.)         5.03 (1.14)        40.26 (9.1)
+95% CI                    [2.69, 7.15]       [21.53, 57.18]
+
+Absolute effect (s.d.)    1.72 (1.14)        13.74 (9.1)
+95% CI                    [-0.4, 4.06]       [-3.18, 32.47]
+
+Relative effect (s.d.)    34.14% (22.59%)    34.14% (22.59%)
+95% CI                    [-7.9%, 80.67%]    [-7.9%, 80.67%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 93.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품소분업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    128.62             1029.0
+Prediction (s.d.)         138.1 (11.61)      1104.8 (92.89)
+95% CI                    [115.0, 160.51]    [919.99, 1284.12]
+
+Absolute effect (s.d.)    -9.48 (11.61)      -75.8 (92.89)
+95% CI                    [-31.89, 13.63]    [-255.12, 109.01]
+
+Relative effect (s.d.)    -6.86% (8.41%)     -6.86% (8.41%)
+95% CI                    [-23.09%, 9.87%]   [-23.09%, 9.87%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 79.32%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품운반업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    23.0               184.0
+Prediction (s.d.)         19.97 (5.81)       159.77 (46.5)
+95% CI                    [8.18, 30.96]      [65.43, 247.72]
+
+Absolute effect (s.d.)    3.03 (5.81)        24.23 (46.5)
+95% CI                    [-7.96, 14.82]     [-63.72, 118.57]
+
+Relative effect (s.d.)    15.17% (29.11%)    15.17% (29.11%)
+95% CI                    [-39.88%, 74.22%]  [-39.88%, 74.22%]
+
+Posterior tail-area probability p: 0.31
+Posterior prob. of a causal effect: 68.93%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품자동판매기업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    357.12             2857.0
+Prediction (s.d.)         270.27 (28.06)     2162.19 (224.46)
+95% CI                    [217.7, 327.68]    [1741.58, 2621.45]
+
+Absolute effect (s.d.)    86.85 (28.06)      694.81 (224.46)
+95% CI                    [29.44, 139.43]    [235.55, 1115.42]
+
+Relative effect (s.d.)    32.13% (10.38%)    32.13% (10.38%)
+95% CI                    [10.89%, 51.59%]   [10.89%, 51.59%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품제조가공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    191.5              1532.0
+Prediction (s.d.)         184.58 (14.87)     1476.62 (118.94)
+95% CI                    [154.11, 212.39]   [1232.9, 1699.14]
+
+Absolute effect (s.d.)    6.92 (14.87)       55.38 (118.94)
+95% CI                    [-20.89, 37.39]    [-167.14, 299.1]
+
+Relative effect (s.d.)    3.75% (8.05%)      3.75% (8.05%)
+95% CI                    [-11.32%, 20.26%]  [-11.32%, 20.26%]
+
+Posterior tail-area probability p: 0.34
+Posterior prob. of a causal effect: 66.03%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품첨가물제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.12               65.0
+Prediction (s.d.)         11.43 (2.35)       91.48 (18.78)
+95% CI                    [7.0, 16.21]       [56.03, 129.66]
+
+Absolute effect (s.d.)    -3.31 (2.35)       -26.48 (18.78)
+95% CI                    [-8.08, 1.12]      [-64.66, 8.97]
+
+Relative effect (s.d.)    -28.95% (20.53%)   -28.95% (20.53%)
+95% CI                    [-70.68%, 9.81%]   [-70.68%, 9.81%]
+
+Posterior tail-area probability p: 0.07
+Posterior prob. of a causal effect: 92.81%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+식품판매업(기타)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    28.12              225.0
+Prediction (s.d.)         29.42 (3.33)       235.36 (26.64)
+95% CI                    [22.7, 35.75]      [181.56, 285.98]
+
+Absolute effect (s.d.)    -1.29 (3.33)       -10.36 (26.64)
+95% CI                    [-7.62, 5.43]      [-60.98, 43.44]
+
+Relative effect (s.d.)    -4.4% (11.32%)     -4.4% (11.32%)
+95% CI                    [-25.91%, 18.46%]  [-25.91%, 18.46%]
+
+Posterior tail-area probability p: 0.37
+Posterior prob. of a causal effect: 63.04%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+썰매장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.25               10.0
+Prediction (s.d.)         0.46 (0.31)        3.71 (2.46)
+95% CI                    [-0.14, 1.07]      [-1.09, 8.56]
+
+Absolute effect (s.d.)    0.79 (0.31)        6.29 (2.46)
+95% CI                    [0.18, 1.39]       [1.44, 11.09]
+
+Relative effect (s.d.)    169.43% (66.34%)   169.43% (66.34%)
+95% CI                    [38.8%, 298.84%]   [38.8%, 298.84%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 99.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+쓰레기종량제봉투판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    220.0              1760.0
+Prediction (s.d.)         197.06 (70.22)     1576.52 (561.8)
+95% CI                    [59.99, 335.26]    [479.91, 2682.12]
+
+Absolute effect (s.d.)    22.94 (70.22)      183.48 (561.8)
+95% CI                    [-115.26, 160.01]  [-922.12, 1280.09]
+
+Relative effect (s.d.)    11.64% (35.64%)    11.64% (35.64%)
+95% CI                    [-58.49%, 81.2%]   [-58.49%, 81.2%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 62.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+안경업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    30.88              247.0
+Prediction (s.d.)         36.46 (3.71)       291.7 (29.72)
+95% CI                    [28.9, 43.46]      [231.18, 347.68]
+
+Absolute effect (s.d.)    -5.59 (3.71)       -44.7 (29.72)
+95% CI                    [-12.58, 1.98]     [-100.68, 15.82]
+
+Relative effect (s.d.)    -15.32% (10.19%)   -15.32% (10.19%)
+95% CI                    [-34.51%, 5.42%]   [-34.51%, 5.42%]
+
+Posterior tail-area probability p: 0.07
+Posterior prob. of a causal effect: 92.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+안전상비의약품 판매업소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    456.38             3651.0
+Prediction (s.d.)         433.03 (29.38)     3464.22 (235.02)
+95% CI                    [372.92, 488.08]   [2983.38, 3904.62]
+
+Absolute effect (s.d.)    23.35 (29.38)      186.78 (235.02)
+95% CI                    [-31.7, 83.45]     [-253.62, 667.62]
+
+Relative effect (s.d.)    5.39% (6.78%)      5.39% (6.78%)
+95% CI                    [-7.32%, 19.27%]   [-7.32%, 19.27%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 79.32%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+액화석유가스용품제조업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.38               19.0
+Prediction (s.d.)         1.54 (0.37)        12.29 (2.98)
+95% CI                    [0.79, 2.25]       [6.32, 17.99]
+
+Absolute effect (s.d.)    0.84 (0.37)        6.71 (2.98)
+95% CI                    [0.13, 1.59]       [1.01, 12.68]
+
+Relative effect (s.d.)    54.59% (24.22%)    54.59% (24.22%)
+95% CI                    [8.26%, 103.2%]    [8.26%, 103.2%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 98.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+약국
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    110.38             883.0
+Prediction (s.d.)         100.46 (8.75)      803.68 (70.03)
+95% CI                    [83.23, 117.54]    [665.84, 940.36]
+
+Absolute effect (s.d.)    9.92 (8.75)        79.32 (70.03)
+95% CI                    [-7.17, 27.15]     [-57.36, 217.16]
+
+Relative effect (s.d.)    9.87% (8.71%)      9.87% (8.71%)
+95% CI                    [-7.14%, 27.02%]   [-7.14%, 27.02%]
+
+Posterior tail-area probability p: 0.13
+Posterior prob. of a causal effect: 86.51%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+영화배급업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    10.5               84.0
+Prediction (s.d.)         10.18 (1.77)       81.43 (14.18)
+95% CI                    [6.54, 13.49]      [52.34, 107.92]
+
+Absolute effect (s.d.)    0.32 (1.77)        2.57 (14.18)
+95% CI                    [-2.99, 3.96]      [-23.92, 31.66]
+
+Relative effect (s.d.)    3.15% (17.41%)     3.15% (17.41%)
+95% CI                    [-29.38%, 38.88%]  [-29.38%, 38.88%]
+
+Posterior tail-area probability p: 0.43
+Posterior prob. of a causal effect: 57.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+영화상영관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    9.0                72.0
+Prediction (s.d.)         15.32 (4.91)       122.58 (39.3)
+95% CI                    [5.58, 24.83]      [44.61, 198.67]
+
+Absolute effect (s.d.)    -6.32 (4.91)       -50.58 (39.3)
+95% CI                    [-15.83, 3.42]     [-126.67, 27.39]
+
+Relative effect (s.d.)    -41.26% (32.06%)   -41.26% (32.06%)
+95% CI                    [-103.34%, 22.35%] [-103.34%, 22.35%]
+
+Posterior tail-area probability p: 0.1
+Posterior prob. of a causal effect: 90.31%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+영화상영업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.25               34.0
+Prediction (s.d.)         6.7 (1.29)         53.6 (10.29)
+95% CI                    [4.35, 9.39]       [34.84, 75.15]
+
+Absolute effect (s.d.)    -2.45 (1.29)       -19.6 (10.29)
+95% CI                    [-5.14, -0.1]      [-41.15, -0.84]
+
+Relative effect (s.d.)    -36.57% (19.19%)   -36.57% (19.19%)
+95% CI                    [-76.78%, -1.56%]  [-76.78%, -1.56%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+영화수입업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.75               38.0
+Prediction (s.d.)         5.14 (1.29)        41.16 (10.34)
+95% CI                    [2.51, 7.58]       [20.08, 60.61]
+
+Absolute effect (s.d.)    -0.39 (1.29)       -3.16 (10.34)
+95% CI                    [-2.83, 2.24]      [-22.61, 17.92]
+
+Relative effect (s.d.)    -7.67% (25.12%)    -7.67% (25.12%)
+95% CI                    [-54.94%, 43.53%]  [-54.94%, 43.53%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 61.54%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+영화제작업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    36.0               288.0
+Prediction (s.d.)         32.72 (6.68)       261.79 (53.46)
+95% CI                    [18.73, 44.92]     [149.8, 359.38]
+
+Absolute effect (s.d.)    3.28 (6.68)        26.21 (53.46)
+95% CI                    [-8.92, 17.27]     [-71.38, 138.2]
+
+Relative effect (s.d.)    10.01% (20.42%)    10.01% (20.42%)
+95% CI                    [-27.27%, 52.79%]  [-27.27%, 52.79%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 68.43%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+옥외광고업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    122.5              980.0
+Prediction (s.d.)         117.61 (13.39)     940.9 (107.15)
+95% CI                    [90.9, 143.4]      [727.17, 1147.17]
+
+Absolute effect (s.d.)    4.89 (13.39)       39.1 (107.15)
+95% CI                    [-20.9, 31.6]      [-167.17, 252.83]
+
+Relative effect (s.d.)    4.16% (11.39%)     4.16% (11.39%)
+95% CI                    [-17.77%, 26.87%]  [-17.77%, 26.87%]
+
+Posterior tail-area probability p: 0.36
+Posterior prob. of a causal effect: 63.94%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+온라인음악서비스제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.5                4.0
+Prediction (s.d.)         0.43 (0.26)        3.42 (2.05)
+95% CI                    [-0.08, 0.92]      [-0.66, 7.39]
+
+Absolute effect (s.d.)    0.07 (0.26)        0.58 (2.05)
+95% CI                    [-0.42, 0.58]      [-3.39, 4.66]
+
+Relative effect (s.d.)    16.89% (60.04%)    16.89% (60.04%)
+95% CI                    [-99.04%, 136.31%] [-99.04%, 136.31%]
+
+Posterior tail-area probability p: 0.39
+Posterior prob. of a causal effect: 61.34%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+옹기류제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.04 (0.08)        0.29 (0.61)
+95% CI                    [-0.11, 0.19]      [-0.89, 1.49]
+
+Absolute effect (s.d.)    -0.04 (0.08)       -0.29 (0.61)
+95% CI                    [-0.19, 0.11]      [-1.49, 0.89]
+
+Relative effect (s.d.)    -100.0% (206.99%)  -100.0% (206.99%)
+95% CI                    [-508.48%, 302.91%][-508.48%, 302.91%]
+
+Posterior tail-area probability p: 0.31
+Posterior prob. of a causal effect: 69.13%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+외국인관광도시민박업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    35.75              286.0
+Prediction (s.d.)         17.67 (2.57)       141.37 (20.59)
+95% CI                    [12.78, 22.86]     [102.21, 182.92]
+
+Absolute effect (s.d.)    18.08 (2.57)       144.63 (20.59)
+95% CI                    [12.89, 22.97]     [103.08, 183.79]
+
+Relative effect (s.d.)    102.3% (14.56%)    102.3% (14.56%)
+95% CI                    [72.91%, 130.01%]  [72.91%, 130.01%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+외국인전용유흥음식점업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.12               9.0
+Prediction (s.d.)         0.39 (0.25)        3.11 (2.03)
+95% CI                    [-0.1, 0.9]        [-0.79, 7.18]
+
+Absolute effect (s.d.)    0.74 (0.25)        5.89 (2.03)
+95% CI                    [0.23, 1.22]       [1.82, 9.79]
+
+Relative effect (s.d.)    189.46% (65.4%)    189.46% (65.4%)
+95% CI                    [58.5%, 314.88%]   [58.5%, 314.88%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+요양보호사교육기관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    13.38              107.0
+Prediction (s.d.)         15.4 (2.97)        123.23 (23.78)
+95% CI                    [9.37, 21.03]      [74.99, 168.22]
+
+Absolute effect (s.d.)    -2.03 (2.97)       -16.23 (23.78)
+95% CI                    [-7.65, 4.0]       [-61.22, 32.01]
+
+Relative effect (s.d.)    -13.17% (19.3%)    -13.17% (19.3%)
+95% CI                    [-49.68%, 25.97%]  [-49.68%, 25.97%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 74.83%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+요트장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.04 (0.08)        0.28 (0.61)
+95% CI                    [-0.11, 0.19]      [-0.89, 1.49]
+
+Absolute effect (s.d.)    0.09 (0.08)        0.72 (0.61)
+95% CI                    [-0.06, 0.24]      [-0.49, 1.89]
+
+Relative effect (s.d.)    250.93% (213.29%)  250.93% (213.29%)
+95% CI                    [-173.4%, 662.69%] [-173.4%, 662.69%]
+
+Posterior tail-area probability p: 0.12
+Posterior prob. of a causal effect: 87.91%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+용기·포장지제조업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    11.62              93.0
+Prediction (s.d.)         9.96 (1.49)        79.69 (11.91)
+95% CI                    [7.08, 12.91]      [56.61, 103.29]
+
+Absolute effect (s.d.)    1.66 (1.49)        13.31 (11.91)
+95% CI                    [-1.29, 4.55]      [-10.29, 36.39]
+
+Relative effect (s.d.)    16.71% (14.94%)    16.71% (14.94%)
+95% CI                    [-12.91%, 45.66%]  [-12.91%, 45.66%]
+
+Posterior tail-area probability p: 0.16
+Posterior prob. of a causal effect: 84.02%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+용기냉동기특정설비
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.12               49.0
+Prediction (s.d.)         6.66 (1.43)        53.29 (11.47)
+95% CI                    [3.85, 9.47]       [30.81, 75.76]
+
+Absolute effect (s.d.)    -0.54 (1.43)       -4.29 (11.47)
+95% CI                    [-3.35, 2.27]      [-26.76, 18.19]
+
+Relative effect (s.d.)    -8.05% (21.52%)    -8.05% (21.52%)
+95% CI                    [-50.22%, 34.13%]  [-50.22%, 34.13%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 68.23%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+원목생산업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    16.38              131.0
+Prediction (s.d.)         10.61 (2.19)       84.91 (17.5)
+95% CI                    [6.26, 14.83]      [50.05, 118.65]
+
+Absolute effect (s.d.)    5.76 (2.19)        46.09 (17.5)
+95% CI                    [1.54, 10.12]      [12.35, 80.95]
+
+Relative effect (s.d.)    54.29% (20.61%)    54.29% (20.61%)
+95% CI                    [14.54%, 95.34%]   [14.54%, 95.34%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 99.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+위탁급식영업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    104.62             837.0
+Prediction (s.d.)         88.7 (13.53)       709.57 (108.26)
+95% CI                    [62.46, 115.51]    [499.7, 924.09]
+
+Absolute effect (s.d.)    15.93 (13.53)      127.43 (108.26)
+95% CI                    [-10.89, 42.16]    [-87.09, 337.3]
+
+Relative effect (s.d.)    17.96% (15.26%)    17.96% (15.26%)
+95% CI                    [-12.27%, 47.54%]  [-12.27%, 47.54%]
+
+Posterior tail-area probability p: 0.1
+Posterior prob. of a causal effect: 89.51%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+유료직업소개소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    166.38             1331.0
+Prediction (s.d.)         111.07 (10.19)     888.53 (81.51)
+95% CI                    [91.12, 131.06]    [728.96, 1048.47]
+
+Absolute effect (s.d.)    55.31 (10.19)      442.47 (81.51)
+95% CI                    [35.32, 75.26]     [282.53, 602.04]
+
+Relative effect (s.d.)    49.8% (9.17%)      49.8% (9.17%)
+95% CI                    [31.8%, 67.76%]    [31.8%, 67.76%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+유원시설업(기타)
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    27.25              218.0
+Prediction (s.d.)         21.47 (2.82)       171.78 (22.59)
+95% CI                    [15.92, 26.99]     [127.33, 215.9]
+
+Absolute effect (s.d.)    5.78 (2.82)        46.22 (22.59)
+95% CI                    [0.26, 11.33]      [2.1, 90.67]
+
+Relative effect (s.d.)    26.9% (13.15%)     26.9% (13.15%)
+95% CI                    [1.23%, 52.78%]    [1.23%, 52.78%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+유통전문판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    282.5              2260.0
+Prediction (s.d.)         280.99 (24.05)     2247.94 (192.39)
+95% CI                    [231.78, 326.05]   [1854.24, 2608.39]
+
+Absolute effect (s.d.)    1.51 (24.05)       12.06 (192.39)
+95% CI                    [-43.55, 50.72]    [-348.39, 405.76]
+
+Relative effect (s.d.)    0.54% (8.56%)      0.54% (8.56%)
+95% CI                    [-15.5%, 18.05%]   [-15.5%, 18.05%]
+
+Posterior tail-area probability p: 0.45
+Posterior prob. of a causal effect: 54.75%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+유흥주점영업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    36.0               288.0
+Prediction (s.d.)         21.89 (2.6)        175.13 (20.79)
+95% CI                    [16.71, 26.9]      [133.68, 215.16]
+
+Absolute effect (s.d.)    14.11 (2.6)        112.87 (20.79)
+95% CI                    [9.1, 19.29]       [72.84, 154.32]
+
+Relative effect (s.d.)    64.45% (11.87%)    64.45% (11.87%)
+95% CI                    [41.59%, 88.12%]   [41.59%, 88.12%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+음반.음악영상물배급업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    5.88               47.0
+Prediction (s.d.)         5.0 (1.22)         40.0 (9.78)
+95% CI                    [2.6, 7.39]        [20.82, 59.16]
+
+Absolute effect (s.d.)    0.88 (1.22)        7.0 (9.78)
+95% CI                    [-1.52, 3.27]      [-12.16, 26.18]
+
+Relative effect (s.d.)    17.5% (24.45%)     17.5% (24.45%)
+95% CI                    [-30.39%, 65.45%]  [-30.39%, 65.45%]
+
+Posterior tail-area probability p: 0.22
+Posterior prob. of a causal effect: 77.62%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+음반.음악영상물제작업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    37.88              303.0
+Prediction (s.d.)         26.79 (3.55)       214.31 (28.44)
+95% CI                    [19.98, 33.91]     [159.83, 271.3]
+
+Absolute effect (s.d.)    11.09 (3.55)       88.69 (28.44)
+95% CI                    [3.96, 17.9]       [31.7, 143.17]
+
+Relative effect (s.d.)    41.38% (13.27%)    41.38% (13.27%)
+95% CI                    [14.79%, 66.81%]   [14.79%, 66.81%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.8%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+음반물배급업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.32 (0.24)        2.54 (1.93)
+95% CI                    [-0.15, 0.8]       [-1.18, 6.4]
+
+Absolute effect (s.d.)    -0.32 (0.24)       -2.54 (1.93)
+95% CI                    [-0.8, 0.15]       [-6.4, 1.18]
+
+Relative effect (s.d.)    -100.0% (76.08%)   -100.0% (76.08%)
+95% CI                    [-251.67%, 46.55%] [-251.67%, 46.55%]
+
+Posterior tail-area probability p: 0.09
+Posterior prob. of a causal effect: 90.71%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+음반물제작업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         1.73 (0.89)        13.81 (7.13)
+95% CI                    [0.11, 3.61]       [0.89, 28.85]
+
+Absolute effect (s.d.)    -1.73 (0.89)       -13.81 (7.13)
+95% CI                    [-3.61, -0.11]     [-28.85, -0.89]
+
+Relative effect (s.d.)    -100.0% (51.66%)   -100.0% (51.66%)
+95% CI                    [-208.92%, -6.43%] [-208.92%, -6.43%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 98.4%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+응급환자이송업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.0                8.0
+Prediction (s.d.)         0.71 (0.33)        5.72 (2.61)
+95% CI                    [0.08, 1.36]       [0.61, 10.85]
+
+Absolute effect (s.d.)    0.29 (0.33)        2.28 (2.61)
+95% CI                    [-0.36, 0.92]      [-2.85, 7.39]
+
+Relative effect (s.d.)    39.92% (45.66%)    39.92% (45.66%)
+95% CI                    [-49.76%, 129.22%] [-49.76%, 129.22%]
+
+Posterior tail-area probability p: 0.2
+Posterior prob. of a causal effect: 80.02%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의료기관세탁물처리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.12               1.0
+Prediction (s.d.)         0.75 (0.32)        6.0 (2.55)
+95% CI                    [0.11, 1.36]       [0.91, 10.91]
+
+Absolute effect (s.d.)    -0.62 (0.32)       -5.0 (2.55)
+95% CI                    [-1.24, 0.01]      [-9.91, 0.09]
+
+Relative effect (s.d.)    -83.32% (42.53%)   -83.32% (42.53%)
+95% CI                    [-165.31%, 1.43%]  [-165.31%, 1.43%]
+
+Posterior tail-area probability p: 0.03
+Posterior prob. of a causal effect: 97.1%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의료기기수리업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    14.0               112.0
+Prediction (s.d.)         17.4 (2.54)        139.24 (20.31)
+95% CI                    [12.31, 22.26]     [98.5, 178.1]
+
+Absolute effect (s.d.)    -3.4 (2.54)        -27.24 (20.31)
+95% CI                    [-8.26, 1.69]      [-66.1, 13.5]
+
+Relative effect (s.d.)    -19.56% (14.58%)   -19.56% (14.58%)
+95% CI                    [-47.48%, 9.69%]   [-47.48%, 9.69%]
+
+Posterior tail-area probability p: 0.08
+Posterior prob. of a causal effect: 91.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의료기기판매(임대)업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2163.12            17305.0
+Prediction (s.d.)         1640.31 (1120.82)  13122.47 (8966.57)
+95% CI                    [-556.74, 3836.79] [-4453.96, 30694.36]
+
+Absolute effect (s.d.)    522.82 (1120.82)   4182.53 (8966.57)
+95% CI                    [-1673.67, 2719.87][-13389.36, 21758.96]
+
+Relative effect (s.d.)    31.87% (68.33%)    31.87% (68.33%)
+95% CI                    [-102.03%, 165.81%][-102.03%, 165.81%]
+
+Posterior tail-area probability p: 0.32
+Posterior prob. of a causal effect: 67.73%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의료법인
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.75               6.0
+Prediction (s.d.)         1.17 (0.5)         9.37 (3.97)
+95% CI                    [0.21, 2.16]       [1.7, 17.28]
+
+Absolute effect (s.d.)    -0.42 (0.5)        -3.37 (3.97)
+95% CI                    [-1.41, 0.54]      [-11.28, 4.3]
+
+Relative effect (s.d.)    -35.99% (42.39%)   -35.99% (42.39%)
+95% CI                    [-120.3%, 45.86%]  [-120.3%, 45.86%]
+
+Posterior tail-area probability p: 0.18
+Posterior prob. of a causal effect: 81.62%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의료유사업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.75               54.0
+Prediction (s.d.)         5.96 (1.11)        47.71 (8.87)
+95% CI                    [3.72, 8.06]       [29.76, 64.51]
+
+Absolute effect (s.d.)    0.79 (1.11)        6.29 (8.87)
+95% CI                    [-1.31, 3.03]      [-10.51, 24.24]
+
+Relative effect (s.d.)    13.19% (18.58%)    13.19% (18.58%)
+95% CI                    [-22.03%, 50.82%]  [-22.03%, 50.82%]
+
+Posterior tail-area probability p: 0.24
+Posterior prob. of a causal effect: 76.42%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+의원
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    223.75             1790.0
+Prediction (s.d.)         219.53 (18.72)     1756.27 (149.78)
+95% CI                    [182.23, 255.62]   [1457.88, 2044.99]
+
+Absolute effect (s.d.)    4.22 (18.72)       33.73 (149.78)
+95% CI                    [-31.87, 41.52]    [-254.99, 332.12]
+
+Relative effect (s.d.)    1.92% (8.53%)      1.92% (8.53%)
+95% CI                    [-14.52%, 18.91%]  [-14.52%, 18.91%]
+
+Posterior tail-area probability p: 0.42
+Posterior prob. of a causal effect: 57.84%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+이용업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    58.75              470.0
+Prediction (s.d.)         48.77 (5.06)       390.18 (40.46)
+95% CI                    [38.88, 58.7]      [311.02, 469.63]
+
+Absolute effect (s.d.)    9.98 (5.06)        79.82 (40.46)
+95% CI                    [0.05, 19.87]      [0.37, 158.98]
+
+Relative effect (s.d.)    20.46% (10.37%)    20.46% (10.37%)
+95% CI                    [0.1%, 40.75%]     [0.1%, 40.75%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 97.5%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+인쇄사
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    39.62              317.0
+Prediction (s.d.)         47.76 (5.21)       382.08 (41.68)
+95% CI                    [36.83, 57.25]     [294.62, 458.01]
+
+Absolute effect (s.d.)    -8.14 (5.21)       -65.08 (41.68)
+95% CI                    [-17.63, 2.8]      [-141.01, 22.38]
+
+Relative effect (s.d.)    -17.03% (10.91%)   -17.03% (10.91%)
+95% CI                    [-36.91%, 5.86%]   [-36.91%, 5.86%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 93.61%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+인터넷컴퓨터게임시설제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    191.25             1530.0
+Prediction (s.d.)         134.24 (12.27)     1073.93 (98.14)
+95% CI                    [110.64, 158.73]   [885.13, 1269.84]
+
+Absolute effect (s.d.)    57.01 (12.27)      456.07 (98.14)
+95% CI                    [32.52, 80.61]     [260.16, 644.87]
+
+Relative effect (s.d.)    42.47% (9.14%)     42.47% (9.14%)
+95% CI                    [24.23%, 60.05%]   [24.23%, 60.05%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+일반게임제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    35.38              283.0
+Prediction (s.d.)         25.28 (4.48)       202.28 (35.87)
+95% CI                    [15.86, 33.44]     [126.88, 267.49]
+
+Absolute effect (s.d.)    10.09 (4.48)       80.72 (35.87)
+95% CI                    [1.94, 19.51]      [15.51, 156.12]
+
+Relative effect (s.d.)    39.91% (17.73%)    39.91% (17.73%)
+95% CI                    [7.67%, 77.18%]    [7.67%, 77.18%]
+
+Posterior tail-area probability p: 0.01
+Posterior prob. of a causal effect: 99.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+일반야영장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    41.38              331.0
+Prediction (s.d.)         20.47 (4.16)       163.75 (33.3)
+95% CI                    [12.27, 28.59]     [98.19, 228.73]
+
+Absolute effect (s.d.)    20.91 (4.16)       167.25 (33.3)
+95% CI                    [12.78, 29.1]      [102.27, 232.81]
+
+Relative effect (s.d.)    102.14% (20.34%)   102.14% (20.34%)
+95% CI                    [62.46%, 142.18%]  [62.46%, 142.18%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+일반유원시설업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    5.5                44.0
+Prediction (s.d.)         2.64 (0.82)        21.15 (6.54)
+95% CI                    [1.12, 4.32]       [8.93, 34.55]
+
+Absolute effect (s.d.)    2.86 (0.82)        22.85 (6.54)
+95% CI                    [1.18, 4.38]       [9.45, 35.07]
+
+Relative effect (s.d.)    108.07% (30.91%)   108.07% (30.91%)
+95% CI                    [44.7%, 165.85%]   [44.7%, 165.85%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.9%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+일반음식점
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    5302.75            42422.0
+Prediction (s.d.)         4333.84 (380.96)   34670.73 (3047.66)
+95% CI                    [3597.7, 5091.03]  [28781.62, 40728.23]
+
+Absolute effect (s.d.)    968.91 (380.96)    7751.27 (3047.66)
+95% CI                    [211.72, 1705.05]  [1693.77, 13640.38]
+
+Relative effect (s.d.)    22.36% (8.79%)     22.36% (8.79%)
+95% CI                    [4.89%, 39.34%]    [4.89%, 39.34%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+자동차야영장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.38               67.0
+Prediction (s.d.)         4.55 (1.04)        36.42 (8.29)
+95% CI                    [2.47, 6.53]       [19.75, 52.25]
+
+Absolute effect (s.d.)    3.82 (1.04)        30.58 (8.29)
+95% CI                    [1.84, 5.91]       [14.75, 47.25]
+
+Relative effect (s.d.)    83.95% (22.77%)    83.95% (22.77%)
+95% CI                    [40.49%, 129.74%]  [40.49%, 129.74%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+장례지도사 교육기관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.75               6.0
+Prediction (s.d.)         0.57 (0.3)         4.58 (2.4)
+95% CI                    [-0.03, 1.15]      [-0.22, 9.17]
+
+Absolute effect (s.d.)    0.18 (0.3)         1.42 (2.4)
+95% CI                    [-0.4, 0.78]       [-3.17, 6.22]
+
+Relative effect (s.d.)    31.13% (52.39%)    31.13% (52.39%)
+95% CI                    [-69.36%, 136.0%]  [-69.36%, 136.0%]
+
+Posterior tail-area probability p: 0.28
+Posterior prob. of a causal effect: 71.83%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+저수조청소업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    32.75              262.0
+Prediction (s.d.)         33.8 (4.53)        270.41 (36.24)
+95% CI                    [24.62, 42.37]     [196.94, 338.99]
+
+Absolute effect (s.d.)    -1.05 (4.53)       -8.41 (36.24)
+95% CI                    [-9.62, 8.13]      [-76.99, 65.06]
+
+Relative effect (s.d.)    -3.11% (13.4%)     -3.11% (13.4%)
+95% CI                    [-28.47%, 24.06%]  [-28.47%, 24.06%]
+
+Posterior tail-area probability p: 0.4
+Posterior prob. of a causal effect: 59.64%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+전력기술감리업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    6.62               53.0
+Prediction (s.d.)         7.43 (1.65)        59.46 (13.22)
+95% CI                    [4.11, 10.59]      [32.92, 84.74]
+
+Absolute effect (s.d.)    -0.81 (1.65)       -6.46 (13.22)
+95% CI                    [-3.97, 2.51]      [-31.74, 20.08]
+
+Relative effect (s.d.)    -10.86% (22.24%)   -10.86% (22.24%)
+95% CI                    [-53.39%, 33.77%]  [-53.39%, 33.77%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 70.13%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+전력기술설계업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.25               34.0
+Prediction (s.d.)         5.53 (1.16)        44.28 (9.3)
+95% CI                    [3.27, 7.82]       [26.14, 62.58]
+
+Absolute effect (s.d.)    -1.28 (1.16)       -10.28 (9.3)
+95% CI                    [-3.57, 0.98]      [-28.58, 7.86]
+
+Relative effect (s.d.)    -23.21% (21.0%)    -23.21% (21.0%)
+95% CI                    [-64.56%, 17.76%]  [-64.56%, 17.76%]
+
+Posterior tail-area probability p: 0.12
+Posterior prob. of a causal effect: 87.81%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+전문휴양업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    4.88               39.0
+Prediction (s.d.)         0.54 (0.29)        4.29 (2.34)
+95% CI                    [-0.06, 1.09]      [-0.46, 8.7]
+
+Absolute effect (s.d.)    4.34 (0.29)        34.71 (2.34)
+95% CI                    [3.79, 4.93]       [30.3, 39.46]
+
+Relative effect (s.d.)    809.98% (54.52%)   809.98% (54.52%)
+95% CI                    [707.08%, 920.78%] [707.08%, 920.78%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+전통사찰
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.18 (0.2)         1.43 (1.56)
+95% CI                    [-0.19, 0.58]      [-1.53, 4.6]
+
+Absolute effect (s.d.)    -0.18 (0.2)        -1.43 (1.56)
+95% CI                    [-0.58, 0.19]      [-4.6, 1.53]
+
+Relative effect (s.d.)    -100.0% (109.62%)  -100.0% (109.62%)
+95% CI                    [-322.75%, 106.96%][-322.75%, 106.96%]
+
+Posterior tail-area probability p: 0.14
+Posterior prob. of a causal effect: 85.81%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+전화권유판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    51.25              410.0
+Prediction (s.d.)         50.04 (5.52)       400.32 (44.17)
+95% CI                    [39.11, 60.75]     [312.91, 486.04]
+
+Absolute effect (s.d.)    1.21 (5.52)        9.68 (44.17)
+95% CI                    [-9.5, 12.14]      [-76.04, 97.09]
+
+Relative effect (s.d.)    2.42% (11.03%)     2.42% (11.03%)
+95% CI                    [-18.99%, 24.25%]  [-18.99%, 24.25%]
+
+Posterior tail-area probability p: 0.43
+Posterior prob. of a causal effect: 57.24%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+제과점영업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    181.75             1454.0
+Prediction (s.d.)         151.71 (15.4)      1213.68 (123.17)
+95% CI                    [122.65, 183.0]    [981.18, 1464.01]
+
+Absolute effect (s.d.)    30.04 (15.4)       240.32 (123.17)
+95% CI                    [-1.25, 59.1]      [-10.01, 472.82]
+
+Relative effect (s.d.)    19.8% (10.15%)     19.8% (10.15%)
+95% CI                    [-0.82%, 38.96%]   [-0.82%, 38.96%]
+
+Posterior tail-area probability p: 0.03
+Posterior prob. of a causal effect: 96.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+제재업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    11.25              90.0
+Prediction (s.d.)         10.22 (1.98)       81.76 (15.82)
+95% CI                    [6.45, 14.2]       [51.62, 113.62]
+
+Absolute effect (s.d.)    1.03 (1.98)        8.24 (15.82)
+95% CI                    [-2.95, 4.8]       [-23.62, 38.38]
+
+Relative effect (s.d.)    10.08% (19.35%)    10.08% (19.35%)
+95% CI                    [-28.89%, 46.94%]  [-28.89%, 46.94%]
+
+Posterior tail-area probability p: 0.3
+Posterior prob. of a causal effect: 69.53%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+종축업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2.38               19.0
+Prediction (s.d.)         2.35 (0.66)        18.78 (5.26)
+95% CI                    [1.04, 3.61]       [8.29, 28.9]
+
+Absolute effect (s.d.)    0.03 (0.66)        0.22 (5.26)
+95% CI                    [-1.24, 1.34]      [-9.9, 10.71]
+
+Relative effect (s.d.)    1.16% (27.98%)     1.16% (27.98%)
+95% CI                    [-52.69%, 57.0%]   [-52.69%, 57.0%]
+
+Posterior tail-area probability p: 0.49
+Posterior prob. of a causal effect: 51.05%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+종합여행업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    99.0               792.0
+Prediction (s.d.)         42.06 (9.32)       336.48 (74.59)
+95% CI                    [23.63, 60.18]     [189.02, 481.43]
+
+Absolute effect (s.d.)    56.94 (9.32)       455.52 (74.59)
+95% CI                    [38.82, 75.37]     [310.57, 602.98]
+
+Relative effect (s.d.)    135.37% (22.17%)   135.37% (22.17%)
+95% CI                    [92.3%, 179.2%]    [92.3%, 179.2%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+종합유원시설업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.0                0.0
+Prediction (s.d.)         0.18 (0.21)        1.43 (1.72)
+95% CI                    [-0.24, 0.61]      [-1.88, 4.86]
+
+Absolute effect (s.d.)    -0.18 (0.21)       -1.43 (1.72)
+95% CI                    [-0.61, 0.24]      [-4.86, 1.88]
+
+Relative effect (s.d.)    -100.0% (120.02%)  -100.0% (120.02%)
+95% CI                    [-339.12%, 131.35%][-339.12%, 131.35%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 78.92%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+종합체육시설업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1.62               13.0
+Prediction (s.d.)         1.53 (0.49)        12.28 (3.95)
+95% CI                    [0.54, 2.47]       [4.32, 19.79]
+
+Absolute effect (s.d.)    0.09 (0.49)        0.72 (3.95)
+95% CI                    [-0.85, 1.09]      [-6.79, 8.68]
+
+Relative effect (s.d.)    5.9% (32.16%)      5.9% (32.16%)
+95% CI                    [-55.34%, 70.72%]  [-55.34%, 70.72%]
+
+Posterior tail-area probability p: 0.42
+Posterior prob. of a causal effect: 57.64%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+즉석판매제조가공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    1274.0             10192.0
+Prediction (s.d.)         1090.06 (124.8)    8720.49 (998.4)
+95% CI                    [853.28, 1342.48]  [6826.22, 10739.88]
+
+Absolute effect (s.d.)    183.94 (124.8)     1471.51 (998.4)
+95% CI                    [-68.48, 420.72]   [-547.88, 3365.78]
+
+Relative effect (s.d.)    16.87% (11.45%)    16.87% (11.45%)
+95% CI                    [-6.28%, 38.6%]    [-6.28%, 38.6%]
+
+Posterior tail-area probability p: 0.09
+Posterior prob. of a causal effect: 91.01%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+지하수시공업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    14.38              115.0
+Prediction (s.d.)         16.61 (2.57)       132.89 (20.6)
+95% CI                    [11.7, 21.79]      [93.57, 174.32]
+
+Absolute effect (s.d.)    -2.24 (2.57)       -17.89 (20.6)
+95% CI                    [-7.41, 2.68]      [-59.32, 21.43]
+
+Relative effect (s.d.)    -13.46% (15.5%)    -13.46% (15.5%)
+95% CI                    [-44.64%, 16.13%]  [-44.64%, 16.13%]
+
+Posterior tail-area probability p: 0.18
+Posterior prob. of a causal effect: 82.12%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+지하수영향조사기관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    3.75               30.0
+Prediction (s.d.)         5.46 (1.2)         43.7 (9.61)
+95% CI                    [3.09, 7.8]        [24.74, 62.43]
+
+Absolute effect (s.d.)    -1.71 (1.2)        -13.7 (9.61)
+95% CI                    [-4.05, 0.66]      [-32.43, 5.26]
+
+Relative effect (s.d.)    -31.35% (22.0%)    -31.35% (22.0%)
+95% CI                    [-74.21%, 12.04%]  [-74.21%, 12.04%]
+
+Posterior tail-area probability p: 0.08
+Posterior prob. of a causal effect: 92.01%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+지하수정화업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.25               2.0
+Prediction (s.d.)         0.64 (0.41)        5.15 (3.28)
+95% CI                    [-0.15, 1.45]      [-1.23, 11.61]
+
+Absolute effect (s.d.)    -0.39 (0.41)       -3.15 (3.28)
+95% CI                    [-1.2, 0.4]        [-9.61, 3.23]
+
+Relative effect (s.d.)    -61.13% (63.66%)   -61.13% (63.66%)
+95% CI                    [-186.83%, 62.72%] [-186.83%, 62.72%]
+
+Posterior tail-area probability p: 0.17
+Posterior prob. of a causal effect: 82.82%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+집단급식소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    104.25             834.0
+Prediction (s.d.)         172.53 (26.8)      1380.25 (214.42)
+95% CI                    [120.4, 225.47]    [963.21, 1803.73]
+
+Absolute effect (s.d.)    -68.28 (26.8)      -546.25 (214.42)
+95% CI                    [-121.22, -16.15]  [-969.73, -129.21]
+
+Relative effect (s.d.)    -39.58% (15.54%)   -39.58% (15.54%)
+95% CI                    [-70.26%, -9.36%]  [-70.26%, -9.36%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.6%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+집단급식소식품판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    60.62              485.0
+Prediction (s.d.)         62.76 (8.74)       502.11 (69.96)
+95% CI                    [45.85, 80.13]     [366.79, 641.03]
+
+Absolute effect (s.d.)    -2.14 (8.74)       -17.11 (69.96)
+95% CI                    [-19.5, 14.78]     [-156.03, 118.21]
+
+Relative effect (s.d.)    -3.41% (13.93%)    -3.41% (13.93%)
+95% CI                    [-31.07%, 23.54%]  [-31.07%, 23.54%]
+
+Posterior tail-area probability p: 0.38
+Posterior prob. of a causal effect: 61.74%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+집유업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    0.25               2.0
+Prediction (s.d.)         0.04 (0.07)        0.29 (0.58)
+95% CI                    [-0.11, 0.18]      [-0.87, 1.42]
+
+Absolute effect (s.d.)    0.21 (0.07)        1.71 (0.58)
+95% CI                    [0.07, 0.36]       [0.58, 2.87]
+
+Relative effect (s.d.)    601.2% (204.3%)    601.2% (204.3%)
+95% CI                    [204.46%, 1005.32%][204.46%, 1005.32%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 99.7%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+청소년게임제공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    34.12              273.0
+Prediction (s.d.)         31.2 (3.93)        249.64 (31.47)
+95% CI                    [23.6, 39.02]      [188.84, 312.18]
+
+Absolute effect (s.d.)    2.92 (3.93)        23.36 (31.47)
+95% CI                    [-4.9, 10.52]      [-39.18, 84.16]
+
+Relative effect (s.d.)    9.36% (12.6%)      9.36% (12.6%)
+95% CI                    [-15.7%, 33.71%]   [-15.7%, 33.71%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 74.83%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+체력단련장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    173.0              1384.0
+Prediction (s.d.)         130.9 (14.67)      1047.22 (117.38)
+95% CI                    [100.88, 158.4]    [807.04, 1267.18]
+
+Absolute effect (s.d.)    42.1 (14.67)       336.78 (117.38)
+95% CI                    [14.6, 72.12]      [116.82, 576.96]
+
+Relative effect (s.d.)    32.16% (11.21%)    32.16% (11.21%)
+95% CI                    [11.16%, 55.09%]   [11.16%, 55.09%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+체육도장업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    59.62              477.0
+Prediction (s.d.)         85.04 (25.24)      680.34 (201.92)
+95% CI                    [34.53, 133.47]    [276.25, 1067.77]
+
+Absolute effect (s.d.)    -25.42 (25.24)     -203.34 (201.92)
+95% CI                    [-73.85, 25.09]    [-590.77, 200.75]
+
+Relative effect (s.d.)    -29.89% (29.68%)   -29.89% (29.68%)
+95% CI                    [-86.84%, 29.51%]  [-86.84%, 29.51%]
+
+Posterior tail-area probability p: 0.17
+Posterior prob. of a causal effect: 82.92%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+축산가공업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    40.62              325.0
+Prediction (s.d.)         41.58 (3.72)       332.66 (29.79)
+95% CI                    [34.6, 49.19]      [276.78, 393.56]
+
+Absolute effect (s.d.)    -0.96 (3.72)       -7.66 (29.79)
+95% CI                    [-8.57, 6.03]      [-68.56, 48.22]
+
+Relative effect (s.d.)    -2.3% (8.96%)      -2.3% (8.96%)
+95% CI                    [-20.61%, 14.5%]   [-20.61%, 14.5%]
+
+Posterior tail-area probability p: 0.39
+Posterior prob. of a causal effect: 61.04%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+축산물보관업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    8.25               66.0
+Prediction (s.d.)         7.07 (1.27)        56.53 (10.19)
+95% CI                    [4.62, 9.61]       [36.95, 76.9]
+
+Absolute effect (s.d.)    1.18 (1.27)        9.47 (10.19)
+95% CI                    [-1.36, 3.63]      [-10.9, 29.05]
+
+Relative effect (s.d.)    16.75% (18.03%)    16.75% (18.03%)
+95% CI                    [-19.28%, 51.4%]   [-19.28%, 51.4%]
+
+Posterior tail-area probability p: 0.17
+Posterior prob. of a causal effect: 83.32%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+축산물운반업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    22.62              181.0
+Prediction (s.d.)         17.79 (4.36)       142.34 (34.92)
+95% CI                    [9.45, 26.55]      [75.56, 212.43]
+
+Absolute effect (s.d.)    4.83 (4.36)        38.66 (34.92)
+95% CI                    [-3.93, 13.18]     [-31.43, 105.44]
+
+Relative effect (s.d.)    27.16% (24.53%)    27.16% (24.53%)
+95% CI                    [-22.08%, 74.07%]  [-22.08%, 74.07%]
+
+Posterior tail-area probability p: 0.14
+Posterior prob. of a causal effect: 85.51%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+축산판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    310.38             2483.0
+Prediction (s.d.)         326.46 (28.38)     2611.65 (227.05)
+95% CI                    [271.76, 383.02]   [2174.09, 3064.12]
+
+Absolute effect (s.d.)    -16.08 (28.38)     -128.65 (227.05)
+95% CI                    [-72.64, 38.61]    [-581.12, 308.91]
+
+Relative effect (s.d.)    -4.93% (8.69%)     -4.93% (8.69%)
+95% CI                    [-22.25%, 11.83%]  [-22.25%, 11.83%]
+
+Posterior tail-area probability p: 0.29
+Posterior prob. of a causal effect: 71.33%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+출판사
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    389.75             3118.0
+Prediction (s.d.)         415.28 (32.28)     3322.21 (258.24)
+95% CI                    [354.42, 480.96]   [2835.34, 3847.65]
+
+Absolute effect (s.d.)    -25.53 (32.28)     -204.21 (258.24)
+95% CI                    [-91.21, 35.33]    [-729.65, 282.66]
+
+Relative effect (s.d.)    -6.15% (7.77%)     -6.15% (7.77%)
+95% CI                    [-21.96%, 8.51%]   [-21.96%, 8.51%]
+
+Posterior tail-area probability p: 0.21
+Posterior prob. of a causal effect: 78.72%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+치과기공소
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    18.38              147.0
+Prediction (s.d.)         17.26 (1.64)       138.08 (13.11)
+95% CI                    [14.12, 20.54]     [112.96, 164.36]
+
+Absolute effect (s.d.)    1.12 (1.64)        8.92 (13.11)
+95% CI                    [-2.17, 4.25]      [-17.36, 34.04]
+
+Relative effect (s.d.)    6.46% (9.5%)       6.46% (9.5%)
+95% CI                    [-12.57%, 24.65%]  [-12.57%, 24.65%]
+
+Posterior tail-area probability p: 0.25
+Posterior prob. of a causal effect: 75.12%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+통신판매업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    17803.0            142424.0
+Prediction (s.d.)         15903.22 (1446.49) 127225.79 (11571.9)
+95% CI                    [13003.59, 18673.72][104028.73, 149389.74]
+
+Absolute effect (s.d.)    1899.78 (1446.49)  15198.21 (11571.9)
+95% CI                    [-870.72, 4799.41] [-6965.74, 38395.27]
+
+Relative effect (s.d.)    11.95% (9.1%)      11.95% (9.1%)
+95% CI                    [-5.48%, 30.18%]   [-5.48%, 30.18%]
+
+Posterior tail-area probability p: 0.09
+Posterior prob. of a causal effect: 91.31%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+특정고압가스업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    32.0               256.0
+Prediction (s.d.)         35.44 (4.48)       283.55 (35.83)
+95% CI                    [26.47, 44.03]     [211.77, 352.24]
+
+Absolute effect (s.d.)    -3.44 (4.48)       -27.55 (35.83)
+95% CI                    [-12.03, 5.53]     [-96.24, 44.23]
+
+Relative effect (s.d.)    -9.72% (12.64%)    -9.72% (12.64%)
+95% CI                    [-33.94%, 15.6%]   [-33.94%, 15.6%]
+
+Posterior tail-area probability p: 0.23
+Posterior prob. of a causal effect: 76.52%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+한옥체험업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    20.5               164.0
+Prediction (s.d.)         11.11 (1.68)       88.85 (13.44)
+95% CI                    [7.6, 14.19]       [60.81, 113.49]
+
+Absolute effect (s.d.)    9.39 (1.68)        75.15 (13.44)
+95% CI                    [6.31, 12.9]       [50.51, 103.19]
+
+Relative effect (s.d.)    84.58% (15.12%)    84.58% (15.12%)
+95% CI                    [56.85%, 116.14%]  [56.85%, 116.14%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+환경관리대행기관
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    32.88              263.0
+Prediction (s.d.)         12.77 (2.64)       102.14 (21.1)
+95% CI                    [7.6, 17.94]       [60.83, 143.53]
+
+Absolute effect (s.d.)    20.11 (2.64)       160.86 (21.1)
+95% CI                    [14.93, 25.27]     [119.47, 202.17]
+
+Relative effect (s.d.)    157.49% (20.66%)   157.49% (20.66%)
+95% CI                    [116.96%, 197.93%] [116.96%, 197.93%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+환경전문공사업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    58.75              470.0
+Prediction (s.d.)         25.93 (4.86)       207.41 (38.9)
+95% CI                    [16.28, 35.34]     [130.22, 282.7]
+
+Absolute effect (s.d.)    32.82 (4.86)       262.59 (38.9)
+95% CI                    [23.41, 42.47]     [187.3, 339.78]
+
+Relative effect (s.d.)    126.61% (18.75%)   126.61% (18.75%)
+95% CI                    [90.31%, 163.82%]  [90.31%, 163.82%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+환경측정대행업
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    50.25              402.0
+Prediction (s.d.)         24.04 (4.8)        192.33 (38.43)
+95% CI                    [14.34, 33.17]     [114.73, 265.39]
+
+Absolute effect (s.d.)    26.21 (4.8)        209.67 (38.43)
+95% CI                    [17.08, 35.91]     [136.61, 287.27]
+
+Relative effect (s.d.)    109.02% (19.98%)   109.02% (19.98%)
+95% CI                    [71.03%, 149.36%]  [71.03%, 149.36%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+환경컨설팅회사
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    27.0               216.0
+Prediction (s.d.)         4.17 (1.04)        33.33 (8.3)
+95% CI                    [2.07, 6.14]       [16.56, 49.1]
+
+Absolute effect (s.d.)    22.83 (1.04)       182.67 (8.3)
+95% CI                    [20.86, 24.93]     [166.9, 199.44]
+
+Relative effect (s.d.)    548.07% (24.91%)   548.07% (24.91%)
+95% CI                    [500.77%, 598.4%]  [500.77%, 598.4%]
+
+Posterior tail-area probability p: 0.0
+Posterior prob. of a causal effect: 100.0%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+후원방문판매업체
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    302.25             2418.0
+Prediction (s.d.)         194.82 (52.24)     1558.59 (417.96)
+95% CI                    [91.16, 295.96]    [729.3, 2367.67]
+
+Absolute effect (s.d.)    107.43 (52.24)     859.41 (417.96)
+95% CI                    [6.29, 211.09]     [50.33, 1688.7]
+
+Relative effect (s.d.)    55.14% (26.82%)    55.14% (26.82%)
+95% CI                    [3.23%, 108.35%]   [3.23%, 108.35%]
+
+Posterior tail-area probability p: 0.02
+Posterior prob. of a causal effect: 98.2%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
+휴게음식점
+Posterior Inference {Causal Impact}
+                          Average            Cumulative
+Actual                    2515.5             20124.0
+Prediction (s.d.)         2215.76 (190.26)   17726.11 (1522.06)
+95% CI                    [1841.24, 2587.04] [14729.92, 20696.29]
+
+Absolute effect (s.d.)    299.74 (190.26)    2397.89 (1522.06)
+95% CI                    [-71.54, 674.26]   [-572.29, 5394.08]
+
+Relative effect (s.d.)    13.53% (8.59%)     13.53% (8.59%)
+95% CI                    [-3.23%, 30.43%]   [-3.23%, 30.43%]
+
+Posterior tail-area probability p: 0.06
+Posterior prob. of a causal effect: 93.71%
+
+For more details run the command: print(impact.summary('report'))
+____________________________________________________________________________________________________
